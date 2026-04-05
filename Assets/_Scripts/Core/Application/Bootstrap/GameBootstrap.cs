@@ -1,29 +1,42 @@
 ﻿using Reflex.Attributes;
 using UnityEngine;
+using WizardsSpellbook.Core.Application.Entities;
 using WizardsSpellbook.Core.Application.Letters;
+using WizardsSpellbook.Core.Domain.Entities;
 using WizardsSpellbook.Core.Domain.Letters;
-using WizardsSpellbook.Core.Domain.Words;
+using WizardsSpellbook.Core.Presentation.Entities;
 
 namespace WizardsSpellbook.Core.Application.Bootstrap
 {
     public class GameBootstrap : MonoBehaviour
     {
+        [SerializeField] private EntityData _player;
+        [SerializeField] private EntityData _enemy;
+        [SerializeField] private EntityPresenter _playerPresenter;
+        [SerializeField] private EntityPresenter _enemyPresenter;
+
         private AlphabetInventory _alphabetInventory;
         private LetterGenerator _letterGenerator;
         private Book _book;
-        private Word _word;
+        private EntityFactory _entityFactory;
 
         [Inject]
-        public void Inject(LetterGenerator generator, AlphabetInventory inventory, Book book, Word word)
+        public void Inject(LetterGenerator generator, AlphabetInventory inventory, Book book, EntityFactory entityFactory)
         {
             _letterGenerator = generator;
             _alphabetInventory = inventory;
             _book = book;
-            _word = word;
+            _entityFactory = entityFactory;
         }
 
         public void Start()
         {
+            var playerEntity = _entityFactory.Create(_player);
+            _playerPresenter.Initialize(playerEntity);
+
+            var enemyEntity = _entityFactory.Create(_enemy);
+            _enemyPresenter.Initialize(enemyEntity);
+
             foreach (var letter in "ABCDEFGIJKLMNOPQRSTUVWXYZ")
             {
                 _alphabetInventory.AddLetter(letter);
