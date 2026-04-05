@@ -11,40 +11,46 @@ namespace WizardsSpellbook.Core.Presentation.Letters
         [SerializeField] private Transform _rightPageLetterContainer;
 
         private LetterPool _letterPool;
-        private LetterPresenter[] _letterPresenters;
+        private Transform[] _letterPlaceholders;
         private Book _book;
-
-        private int _maxPresentersInLeftPage;
 
         [Inject]
         public void Inject(Book book, LetterPool letterPool)
         {
             _book = book;
             _letterPool = letterPool;
-            _letterPresenters = new LetterPresenter[_book.MaxSize];
-            _maxPresentersInLeftPage = _book.MaxSize / 2;
+            _letterPlaceholders = new Transform[_book.MaxSize];
         }
 
-        public void OnEnable()
+        private void OnEnable() => _book.OnLetterSetEventArgs += HandleOnLetterSetEventArgs;
+
+        private void Awake()
         {
-            _book.OnLetterSetEventArgs += HandleOnLetterSetEventArgs;
+            var maxPresentersInLeftPage = _book.MaxSize / 2;
+
+            for (var index = 0; index < _book.MaxSize; ++index)
+            {
+                var placeholder = new GameObject($"Letter Placeholder {index}");
+                placeholder.AddComponent<RectTransform>();
+
+                var page = index < maxPresentersInLeftPage ? _leftPageLetterContainer : _rightPageLetterContainer;
+                placeholder.transform.SetParent(page);
+
+                _letterPlaceholders[index] = placeholder.transform;
+            }
         }
 
-        public void OnDisable() => Dispose();
+        private void OnDisable() => Dispose();
 
         private void HandleOnLetterSetEventArgs(object _, LetterSetEventArgs args)
         {
-            var page = args.Index < _maxPresentersInLeftPage ? _leftPageLetterContainer : _rightPageLetterContainer;
+            var placeholder = _letterPlaceholders[args.Index];
             var presenter = _letterPool.GetPresenter(args.Letter);
-            presenter.transform.SetParent(page);
-            presenter.transform.localScale = page.localScale;
-
-            _letterPresenters[args.Index] = presenter;
+            presenter.transform.SetParent(placeholder);
+            presenter.transform.localScale = placeholder.localScale;
+            presenter.transform.position = placeholder.position;
         }
 
-        public void Dispose()
-        {
-            _book.OnLetterSetEventArgs -= HandleOnLetterSetEventArgs;
-        }
+        public void Dispose() => _book.OnLetterSetEventArgs -= HandleOnLetterSetEventArgs;
     }
 }
