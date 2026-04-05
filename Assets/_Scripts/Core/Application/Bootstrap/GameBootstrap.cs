@@ -2,6 +2,7 @@
 using UnityEngine;
 using WizardsSpellbook.Core.Application.Letters;
 using WizardsSpellbook.Core.Domain.Letters;
+using WizardsSpellbook.Core.Domain.Words;
 
 namespace WizardsSpellbook.Core.Application.Bootstrap
 {
@@ -10,13 +11,15 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
         private AlphabetInventory _alphabetInventory;
         private LetterGenerator _letterGenerator;
         private Book _book;
+        private Word _word;
 
         [Inject]
-        public void Inject(LetterGenerator generator, AlphabetInventory inventory, Book book)
+        public void Inject(LetterGenerator generator, AlphabetInventory inventory, Book book, Word word)
         {
             _letterGenerator = generator;
             _alphabetInventory = inventory;
             _book = book;
+            _word = word;
         }
 
         public void Start()
@@ -28,6 +31,11 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
             }
 
             _letterGenerator.FillBook(_book);
+        }
+
+        public void OnDisable()
+        {
+            _word.Dispose();
         }
     }
 }
