@@ -10,17 +10,17 @@ namespace WizardsSpellbook.Core.Presentation.Letters
         [SerializeField] private Transform _leftPageLetterContainer;
         [SerializeField] private Transform _rightPageLetterContainer;
 
-        private LetterPresenterFactory _factory;
+        private LetterPool _letterPool;
         private LetterPresenter[] _letterPresenters;
         private Book _book;
 
         private int _maxPresentersInLeftPage;
 
         [Inject]
-        public void Inject(Book book, LetterPresenterFactory factory)
+        public void Inject(Book book, LetterPool letterPool)
         {
             _book = book;
-            _factory = factory;
+            _letterPool = letterPool;
             _letterPresenters = new LetterPresenter[_book.MaxSize];
             _maxPresentersInLeftPage = _book.MaxSize / 2;
         }
@@ -35,7 +35,9 @@ namespace WizardsSpellbook.Core.Presentation.Letters
         private void HandleOnLetterSetEventArgs(object _, LetterSetEventArgs args)
         {
             var page = args.Index < _maxPresentersInLeftPage ? _leftPageLetterContainer : _rightPageLetterContainer;
-            var presenter = _factory.Create(page, args.Letter);
+            var presenter = _letterPool.GetPresenter(args.Letter);
+            presenter.transform.SetParent(page);
+            presenter.transform.localScale = page.localScale;
 
             _letterPresenters[args.Index] = presenter;
         }

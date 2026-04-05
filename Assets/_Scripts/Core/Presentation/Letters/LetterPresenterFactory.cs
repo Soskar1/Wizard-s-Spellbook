@@ -9,22 +9,19 @@ namespace WizardsSpellbook.Core.Presentation.Letters
     {
         private readonly Container _container;
         private readonly LetterPresenter _prefab;
-        private readonly LetterPool _letterPool;
 
-        public LetterPresenterFactory(Container container, LetterPresenter prefab, LetterPool letterPool)
+        public LetterPresenterFactory(Container container, LetterPresenter prefab)
         {
             _container = container;
             _prefab = prefab;
-            _letterPool = letterPool;
         }
 
-        public LetterPresenter Create(Transform parent, Letter letter)
+        public LetterPresenter Create(Letter letter)
         {
-            var presenter = Object.Instantiate(_prefab, parent);
+            var presenter = Object.Instantiate(_prefab);
             GameObjectInjector.InjectRecursive(presenter.gameObject, _container);
 
             presenter.Initialize(letter);
-            _letterPool.Add(letter, presenter);
 
             return presenter;
         }

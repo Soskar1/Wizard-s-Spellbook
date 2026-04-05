@@ -36,9 +36,9 @@ namespace WizardsSpellbook.Core.Presentation.Words
             {
                 var presenter = _letterPool.GetPresenter(args.Letter);
                 presenter.transform.SetParent(transform);
-
-                _attackButton.interactable = args.WordIsValid;
             }
+
+            _attackButton.interactable = args.WordIsValid;
         }
     }
 }

@@ -21,12 +21,11 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
 
         public void InstallBindings(ContainerBuilder containerBuilder)
         {
-            containerBuilder.RegisterType(typeof(LetterPool), Lifetime.Singleton, Resolution.Lazy);
-
             containerBuilder.RegisterFactory(container => new GameConfiguration(_configuration), Lifetime.Singleton, Resolution.Eager);
             containerBuilder.RegisterFactory(container => new System.Random(), Lifetime.Singleton, Resolution.Lazy);
-            containerBuilder.RegisterFactory(container => new LetterPresenterFactory(container, _letterPresenterPrefab, container.Resolve<LetterPool>()), Lifetime.Singleton, Resolution.Lazy);
+            containerBuilder.RegisterFactory(container => new LetterPresenterFactory(container, _letterPresenterPrefab), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterFactory(container => new WordDictionary(_validWords.ToHashSet()), Lifetime.Singleton, Resolution.Lazy);
+            containerBuilder.RegisterType(typeof(LetterPool), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(AlphabetInventory), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(Book), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(LetterGenerator), Lifetime.Singleton, Resolution.Lazy);

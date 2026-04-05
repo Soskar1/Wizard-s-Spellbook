@@ -31,9 +31,18 @@ namespace WizardsSpellbook.Core.Domain.Words
             WordChanged?.Invoke(this, args);
         }
         
-        public void RemoveLetter(int index)
+        public void RemoveLetter(Letter letter)
         {
-            var letter = _letters[index];
+            var index = 0;
+
+            for (; index < _letters.Count; ++index)
+            {
+                if (_letters[index] == letter)
+                {
+                    break;
+                }
+            }
+
             _letters.RemoveAt(index);
             _currentWordRepresentation.Remove(index, 1);
 

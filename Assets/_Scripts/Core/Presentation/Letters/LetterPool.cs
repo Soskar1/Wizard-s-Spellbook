@@ -5,16 +5,13 @@ namespace WizardsSpellbook.Core.Presentation.Letters
 {
     public class LetterPool
     {
-        private Dictionary<Letter, LetterPresenter> _letterPool;
+        private readonly Dictionary<Letter, LetterPresenter> _letterPool;
+        private readonly LetterPresenterFactory _letterPresenterFactory;
 
-        public LetterPool()
+        public LetterPool(LetterPresenterFactory factory)
         {
             _letterPool = new Dictionary<Letter, LetterPresenter>();
-        }
-
-        public void Add(Letter letter, LetterPresenter presenter)
-        {
-            _letterPool.Add(letter, presenter);
+            _letterPresenterFactory = factory;
         }
 
         public void Remove(Letter letter)
@@ -24,7 +21,15 @@ namespace WizardsSpellbook.Core.Presentation.Letters
 
         public LetterPresenter GetPresenter(Letter letter)
         {
-            return _letterPool[letter];
+            if (_letterPool.TryGetValue(letter, out var presenter))
+            {
+                return presenter;
+            }
+
+            presenter = _letterPresenterFactory.Create(letter);
+            _letterPool.Add(letter, presenter);
+
+            return presenter;
         }
     }
 }

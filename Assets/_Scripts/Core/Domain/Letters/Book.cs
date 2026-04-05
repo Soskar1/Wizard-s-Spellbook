@@ -26,5 +26,21 @@ namespace WizardsSpellbook.Core.Domain.Letters
             var args = new LetterSetEventArgs(index, letter);
             OnLetterSetEventArgs?.Invoke(this, args);
         }
+        
+        public int RemoveLetter(Letter letterToRemove)
+        {
+            var index = 0;
+
+            for (; index < _letters.Length; ++index)
+            {
+                if (letterToRemove == _letters[index])
+                {
+                    break;
+                }
+            }
+
+            _letters[index] = null;
+            return index;
+        }
     }
 }
