@@ -35,9 +35,8 @@ namespace WizardsSpellbook.Core.Presentation.Letters
         private void HandleOnLetterSetEventArgs(object _, LetterSetEventArgs args)
         {
             var page = args.Index < _maxPresentersInLeftPage ? _leftPageLetterContainer : _rightPageLetterContainer;
-            var presenter = _factory.Create(page);
+            var presenter = _factory.Create(page, args.Letter);
 
-            presenter.Initialize(args.Letter);
             _letterPresenters[args.Index] = presenter;
         }
 

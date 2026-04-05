@@ -26,7 +26,6 @@ namespace WizardsSpellbook.Core.Presentation.Letters
 
         public void HandleLetterClick()
         {
-            Debug.Log("clicked");
             _wordBuilder.MoveLetter(_letter);
         }
     }

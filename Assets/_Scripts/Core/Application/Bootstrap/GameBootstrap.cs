@@ -24,18 +24,12 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
 
         public void Start()
         {
-            foreach (var letterRaw in "ABCDEFGIJKLMNOPQRSTUVWXYZ")
+            foreach (var letter in "ABCDEFGIJKLMNOPQRSTUVWXYZ")
             {
-                var letter = new Letter(letterRaw);
                 _alphabetInventory.AddLetter(letter);
             }
 
             _letterGenerator.FillBook(_book);
-        }
-
-        public void OnDisable()
-        {
-            _word.Dispose();
         }
     }
 }

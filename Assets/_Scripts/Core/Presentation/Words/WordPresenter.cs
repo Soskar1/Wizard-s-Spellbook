@@ -1,37 +1,43 @@
-﻿using System.Collections.Specialized;
-using Reflex.Attributes;
+﻿using Reflex.Attributes;
 using UnityEngine;
-using WizardsSpellbook.Core.Domain.Letters;
+using UnityEngine.UI;
 using WizardsSpellbook.Core.Domain.Words;
+using WizardsSpellbook.Core.Presentation.Letters;
 
 namespace WizardsSpellbook.Core.Presentation.Words
 {
     public class WordPresenter : MonoBehaviour
     {
+        [SerializeField] private Button _attackButton;
+
         private Word _word;
+        private LetterPool _letterPool;
 
         [Inject]
-        public void Inject(Word word)
+        public void Inject(Word word, LetterPool letterPool)
         {
             _word = word;
+            _letterPool = letterPool;
         }
 
         private void OnEnable()
         {
-            _word.CollectionChanged += HandleCollectionChanged;
+            _word.WordChanged += HandleWordChanged;
         }
 
         private void OnDisable()
         {
-            _word.CollectionChanged -= HandleCollectionChanged;
+            _word.WordChanged -= HandleWordChanged;
         }
 
-        private void HandleCollectionChanged(object _, NotifyCollectionChangedEventArgs args)
+        private void HandleWordChanged(object _, WordChangedEventArgs args)
         {
-            if (args.Action == NotifyCollectionChangedAction.Add)
+            if (args.OperationType == WordOperationType.AddedLetter)
             {
-                var addedLetter = (Letter)args.NewItems[0];
-                Debug.Log($"{addedLetter.Character} has been added!");
+                var presenter = _letterPool.GetPresenter(args.Letter);
+                presenter.transform.SetParent(transform);
+
+                _attackButton.interactable = args.WordIsValid;
             }
         }
     }

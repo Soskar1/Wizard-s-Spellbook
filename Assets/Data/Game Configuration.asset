@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97c12bbb6dc25f545a767c9a16f97ef0, type: 3}
   m_Name: Game Configuration
   m_EditorClassIdentifier: 
-  _lettersInBook: 50
+  _lettersInBook: 24
