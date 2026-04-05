@@ -1,0 +1,2158 @@
+fileFormatVersion: 2
+guid: 1c31fc230f6d7b940a4f89476d28ed6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1825577555143741512
+    second: Green Wizard sheet_0
+  - first:
+      213: 1452759302542300530
+    second: Green Wizard sheet_1
+  - first:
+      213: 2071102352118791384
+    second: Green Wizard sheet_2
+  - first:
+      213: -4920146359822565721
+    second: Green Wizard sheet_3
+  - first:
+      213: 1732576990750420531
+    second: Green Wizard sheet_4
+  - first:
+      213: 1400068974606582525
+    second: Green Wizard sheet_5
+  - first:
+      213: -574413858618119171
+    second: Green Wizard sheet_6
+  - first:
+      213: 7386810031232225495
+    second: Green Wizard sheet_7
+  - first:
+      213: 3173114588328319596
+    second: Green Wizard sheet_8
+  - first:
+      213: 1646171664975318852
+    second: Green Wizard sheet_9
+  - first:
+      213: -8341100540408505786
+    second: Green Wizard sheet_10
+  - first:
+      213: -3953154842579295474
+    second: Green Wizard sheet_11
+  - first:
+      213: 7368850027253189193
+    second: Green Wizard sheet_12
+  - first:
+      213: 4675688682128773115
+    second: Green Wizard sheet_13
+  - first:
+      213: -3499025492124640223
+    second: Green Wizard sheet_14
+  - first:
+      213: 5977980746141090701
+    second: Green Wizard sheet_15
+  - first:
+      213: 5423322609517008102
+    second: Green Wizard sheet_16
+  - first:
+      213: 4596575524271744273
+    second: Green Wizard sheet_17
+  - first:
+      213: 4541284667313962176
+    second: Green Wizard sheet_18
+  - first:
+      213: 7090964378614409686
+    second: Green Wizard sheet_19
+  - first:
+      213: -2831425927304191992
+    second: Green Wizard sheet_20
+  - first:
+      213: -8680089379470795581
+    second: Green Wizard sheet_21
+  - first:
+      213: -5721271233800472664
+    second: Green Wizard sheet_22
+  - first:
+      213: -8807468114850774014
+    second: Green Wizard sheet_23
+  - first:
+      213: -5909562530542114666
+    second: Green Wizard sheet_24
+  - first:
+      213: -4874373934662126213
+    second: Green Wizard sheet_25
+  - first:
+      213: 8451259280789947735
+    second: Green Wizard sheet_26
+  - first:
+      213: -7635312590766855379
+    second: Green Wizard sheet_27
+  - first:
+      213: -8204026983028543835
+    second: Green Wizard sheet_28
+  - first:
+      213: -5853743242065284374
+    second: Green Wizard sheet_29
+  - first:
+      213: 3812988148917563539
+    second: Green Wizard sheet_30
+  - first:
+      213: -417336650561157139
+    second: Green Wizard sheet_31
+  - first:
+      213: 1049583992819073412
+    second: Green Wizard sheet_32
+  - first:
+      213: 4937331537834283903
+    second: Green Wizard sheet_33
+  - first:
+      213: -2366621079130766306
+    second: Green Wizard sheet_34
+  - first:
+      213: -649793214412487688
+    second: Green Wizard sheet_35
+  - first:
+      213: -8382269567716448972
+    second: Green Wizard sheet_36
+  - first:
+      213: 7696092747771449719
+    second: Green Wizard sheet_37
+  - first:
+      213: -7523118515452665754
+    second: Green Wizard sheet_38
+  - first:
+      213: 3023570080432263156
+    second: Green Wizard sheet_39
+  - first:
+      213: 5063902452396904533
+    second: Green Wizard sheet_40
+  - first:
+      213: -3787390109744385475
+    second: Green Wizard sheet_41
+  - first:
+      213: 2015804704217703754
+    second: Green Wizard sheet_42
+  - first:
+      213: 3323432391527470299
+    second: Green Wizard sheet_43
+  - first:
+      213: -3957400327918410392
+    second: Green Wizard sheet_44
+  - first:
+      213: -5524232082963114617
+    second: Green Wizard sheet_45
+  - first:
+      213: -2185362838501159039
+    second: Green Wizard sheet_46
+  - first:
+      213: -8398225694826886939
+    second: Green Wizard sheet_47
+  - first:
+      213: -572797591336599294
+    second: Green Wizard sheet_48
+  - first:
+      213: -6700250729551586698
+    second: Green Wizard sheet_49
+  - first:
+      213: -5262125135623095454
+    second: Green Wizard sheet_50
+  - first:
+      213: 7623999656307584987
+    second: Green Wizard sheet_51
+  - first:
+      213: -373761489402130106
+    second: Green Wizard sheet_52
+  - first:
+      213: 7701728864989102103
+    second: Green Wizard sheet_53
+  - first:
+      213: 5796550630997876244
+    second: Green Wizard sheet_54
+  - first:
+      213: -2372188490458462457
+    second: Green Wizard sheet_55
+  - first:
+      213: 1639605612293052793
+    second: Green Wizard sheet_56
+  - first:
+      213: -2475208895543686573
+    second: Green Wizard sheet_57
+  - first:
+      213: 395382470780135958
+    second: Green Wizard sheet_58
+  - first:
+      213: -7227330988564998169
+    second: Green Wizard sheet_59
+  - first:
+      213: -4395756349853085662
+    second: Green Wizard sheet_60
+  - first:
+      213: 2347410894001925799
+    second: Green Wizard sheet_61
+  - first:
+      213: -9108959300896063540
+    second: Green Wizard sheet_62
+  - first:
+      213: -4772933146913181943
+    second: Green Wizard sheet_63
+  - first:
+      213: -2035133745173035950
+    second: Green Wizard sheet_64
+  - first:
+      213: -5398464570239029835
+    second: Green Wizard sheet_65
+  - first:
+      213: 8450432706171255700
+    second: Green Wizard sheet_66
+  - first:
+      213: -8234199025954913828
+    second: Green Wizard sheet_67
+  - first:
+      213: -9118978048675376714
+    second: Green Wizard sheet_68
+  - first:
+      213: -9166757348602406709
+    second: Green Wizard sheet_69
+  - first:
+      213: -8027552752600130529
+    second: Green Wizard sheet_70
+  - first:
+      213: -9219879550203494694
+    second: Green Wizard sheet_71
+  - first:
+      213: 4908854483712854771
+    second: Green Wizard sheet_72
+  - first:
+      213: 5174358694726099606
+    second: Green Wizard sheet_73
+  - first:
+      213: 7015695868069527157
+    second: Green Wizard sheet_74
+  - first:
+      213: -171721434436277436
+    second: Green Wizard sheet_75
+  - first:
+      213: -4045090540068584976
+    second: Green Wizard sheet_76
+  - first:
+      213: 8301333654243117459
+    second: Green Wizard sheet_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Wizard sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 639
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf2bbbc2ee3aa6e0800000000000000
+      internalID: -1825577555143741512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 639
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2759d2c73ec392410800000000000000
+      internalID: 1452759302542300530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 639
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc3487bd980ebc10800000000000000
+      internalID: 2071102352118791384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 639
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae38db24f028bbb0800000000000000
+      internalID: -4920146359822565721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 639
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ea1bfe7995b0810800000000000000
+      internalID: 1732576990750420531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 639
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df28874805b0e6310800000000000000
+      internalID: 1400068974606582525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 575
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb610393a54708f0800000000000000
+      internalID: -574413858618119171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d093ee1698338660800000000000000
+      internalID: 7386810031232225495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 575
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a5becf7ea290c20800000000000000
+      internalID: 3173114588328319596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 575
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fca22586068d610800000000000000
+      internalID: 1646171664975318852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 575
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ad12560457e3c80800000000000000
+      internalID: -8341100540408505786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 575
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0322f98d929329c0800000000000000
+      internalID: -3953154842579295474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 511
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94acd85de0a634660800000000000000
+      internalID: 7368850027253189193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 511
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff8992651263e040800000000000000
+      internalID: 4675688682128773115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 511
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cdfd18ad6f07fc0800000000000000
+      internalID: -3499025492124640223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 511
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d834ddfd0dd06f250800000000000000
+      internalID: 5977980746141090701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 511
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e41b9aed23834b40800000000000000
+      internalID: 5423322609517008102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 511
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115e87be5115acf30800000000000000
+      internalID: 4596575524271744273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 447
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc3d2b1852e50f30800000000000000
+      internalID: 4541284667313962176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9a246688a286260800000000000000
+      internalID: 7090964378614409686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800e333ee11c4b8d0800000000000000
+      internalID: -2831425927304191992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 449
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc900ec2b02a8780800000000000000
+      internalID: -8680089379470795581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 447
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a779ad1026f990b0800000000000000
+      internalID: -5721271233800472664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 447
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2048dbbd96695c580800000000000000
+      internalID: -8807468114850774014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 383
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698241d40340dfda0800000000000000
+      internalID: -5909562530542114666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 383
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b757a026bbeba5cb0800000000000000
+      internalID: -4874373934662126213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 383
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75545380a87e84570800000000000000
+      internalID: 8451259280789947735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 383
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b264ef6abe90690800000000000000
+      internalID: -7635312590766855379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 383
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae2ddcfce0752e80800000000000000
+      internalID: -8204026983028543835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 383
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2fa5a298353cea0800000000000000
+      internalID: -5853743242065284374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3907105f4847ae430800000000000000
+      internalID: 3812988148917563539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de70d870782553af0800000000000000
+      internalID: -417336650561157139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 319
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481caed941fd09e00800000000000000
+      internalID: 1049583992819073412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 319
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7312f2efdce48440800000000000000
+      internalID: 4937331537834283903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 319
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14857cdaa2182fd0800000000000000
+      internalID: -2366621079130766306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f30c75a3887bf6f0800000000000000
+      internalID: -649793214412487688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435a1b44d323cab80800000000000000
+      internalID: -8382269567716448972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771906514930eca60800000000000000
+      internalID: 7696092747771449719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660a743c193889790800000000000000
+      internalID: -7523118515452665754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 255
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff0aa5f7f0e5f920800000000000000
+      internalID: 3023570080432263156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550d8546378964640800000000000000
+      internalID: 5063902452396904533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32bbdaf2cc707bc0800000000000000
+      internalID: -3787390109744385475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a452573c2b399fb10800000000000000
+      internalID: 2015804704217703754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4950cd6243f1e20800000000000000
+      internalID: 3323432391527470299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865a8647e5d7419c0800000000000000
+      internalID: -3957400327918410392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 191
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785da2e603cf553b0800000000000000
+      internalID: -5524232082963114617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f8cc1b3180ca1e0800000000000000
+      internalID: -2185362838501159039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8094ce932837b80800000000000000
+      internalID: -8398225694826886939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 211
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201ce2020a30d08f0800000000000000
+      internalID: -572797591336599294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 224
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a960ff57de303a0800000000000000
+      internalID: -6700250729551586698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 191
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bf78fa11d29f6b0800000000000000
+      internalID: -5262125135623095454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfe9e13b43edc960800000000000000
+      internalID: 7623999656307584987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6411779d7e120daf0800000000000000
+      internalID: -373761489402130106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 127
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7104c02e89902ea60800000000000000
+      internalID: 7701728864989102103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 113
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ed133661c717050800000000000000
+      internalID: 5796550630997876244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70704f5e22b441fd0800000000000000
+      internalID: -2372188490458462457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 122
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979d67c0e9c01c610800000000000000
+      internalID: 1639605612293052793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 127
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a4b3caf9a46add0800000000000000
+      internalID: -2475208895543686573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a2449234eac7500800000000000000
+      internalID: 395382470780135958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7196802cc53bb90800000000000000
+      internalID: -7227330988564998169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_60
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 101
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220d6d7b3e22ff2c0800000000000000
+      internalID: -4395756349853085662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_61
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 83
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aeedde55cda39020800000000000000
+      internalID: 2347410894001925799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf7994f6c9769180800000000000000
+      internalID: -9108959300896063540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 78
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f6d89479223cdb0800000000000000
+      internalID: -4772933146913181943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 84
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2540d8034a0c1c3e0800000000000000
+      internalID: -2035133745173035950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_65
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 82
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdee5e531dc415b0800000000000000
+      internalID: -5398464570239029835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_66
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 78
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b3ea126c7f54570800000000000000
+      internalID: 8450432706171255700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd10710dc9f3abd80800000000000000
+      internalID: -8234199025954913828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 63
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b19e1677c1e27180800000000000000
+      internalID: -9118978048675376714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc81a5e42c229c080800000000000000
+      internalID: -9166757348602406709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c5f85ad47689090800000000000000
+      internalID: -8027552752600130529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade7b3ae5686c0080800000000000000
+      internalID: -9219879550203494694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_72
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fac9cb0521cf1440800000000000000
+      internalID: 4908854483712854771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_73
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6926a9361d30fc740800000000000000
+      internalID: 5174358694726099606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_74
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eb574a832cc5160800000000000000
+      internalID: 7015695868069527157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_75
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bea14e34ced9df0800000000000000
+      internalID: -171721434436277436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_76
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f14beae593fcd7c0800000000000000
+      internalID: -4045090540068584976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Wizard sheet_77
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3990827e9f2443370800000000000000
+      internalID: 8301333654243117459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Wizard sheet_0: -1825577555143741512
+      Green Wizard sheet_1: 1452759302542300530
+      Green Wizard sheet_10: -8341100540408505786
+      Green Wizard sheet_11: -3953154842579295474
+      Green Wizard sheet_12: 7368850027253189193
+      Green Wizard sheet_13: 4675688682128773115
+      Green Wizard sheet_14: -3499025492124640223
+      Green Wizard sheet_15: 5977980746141090701
+      Green Wizard sheet_16: 5423322609517008102
+      Green Wizard sheet_17: 4596575524271744273
+      Green Wizard sheet_18: 4541284667313962176
+      Green Wizard sheet_19: 7090964378614409686
+      Green Wizard sheet_2: 2071102352118791384
+      Green Wizard sheet_20: -2831425927304191992
+      Green Wizard sheet_21: -8680089379470795581
+      Green Wizard sheet_22: -5721271233800472664
+      Green Wizard sheet_23: -8807468114850774014
+      Green Wizard sheet_24: -5909562530542114666
+      Green Wizard sheet_25: -4874373934662126213
+      Green Wizard sheet_26: 8451259280789947735
+      Green Wizard sheet_27: -7635312590766855379
+      Green Wizard sheet_28: -8204026983028543835
+      Green Wizard sheet_29: -5853743242065284374
+      Green Wizard sheet_3: -4920146359822565721
+      Green Wizard sheet_30: 3812988148917563539
+      Green Wizard sheet_31: -417336650561157139
+      Green Wizard sheet_32: 1049583992819073412
+      Green Wizard sheet_33: 4937331537834283903
+      Green Wizard sheet_34: -2366621079130766306
+      Green Wizard sheet_35: -649793214412487688
+      Green Wizard sheet_36: -8382269567716448972
+      Green Wizard sheet_37: 7696092747771449719
+      Green Wizard sheet_38: -7523118515452665754
+      Green Wizard sheet_39: 3023570080432263156
+      Green Wizard sheet_4: 1732576990750420531
+      Green Wizard sheet_40: 5063902452396904533
+      Green Wizard sheet_41: -3787390109744385475
+      Green Wizard sheet_42: 2015804704217703754
+      Green Wizard sheet_43: 3323432391527470299
+      Green Wizard sheet_44: -3957400327918410392
+      Green Wizard sheet_45: -5524232082963114617
+      Green Wizard sheet_46: -2185362838501159039
+      Green Wizard sheet_47: -8398225694826886939
+      Green Wizard sheet_48: -572797591336599294
+      Green Wizard sheet_49: -6700250729551586698
+      Green Wizard sheet_5: 1400068974606582525
+      Green Wizard sheet_50: -5262125135623095454
+      Green Wizard sheet_51: 7623999656307584987
+      Green Wizard sheet_52: -373761489402130106
+      Green Wizard sheet_53: 7701728864989102103
+      Green Wizard sheet_54: 5796550630997876244
+      Green Wizard sheet_55: -2372188490458462457
+      Green Wizard sheet_56: 1639605612293052793
+      Green Wizard sheet_57: -2475208895543686573
+      Green Wizard sheet_58: 395382470780135958
+      Green Wizard sheet_59: -7227330988564998169
+      Green Wizard sheet_6: -574413858618119171
+      Green Wizard sheet_60: -4395756349853085662
+      Green Wizard sheet_61: 2347410894001925799
+      Green Wizard sheet_62: -9108959300896063540
+      Green Wizard sheet_63: -4772933146913181943
+      Green Wizard sheet_64: -2035133745173035950
+      Green Wizard sheet_65: -5398464570239029835
+      Green Wizard sheet_66: 8450432706171255700
+      Green Wizard sheet_67: -8234199025954913828
+      Green Wizard sheet_68: -9118978048675376714
+      Green Wizard sheet_69: -9166757348602406709
+      Green Wizard sheet_7: 7386810031232225495
+      Green Wizard sheet_70: -8027552752600130529
+      Green Wizard sheet_71: -9219879550203494694
+      Green Wizard sheet_72: 4908854483712854771
+      Green Wizard sheet_73: 5174358694726099606
+      Green Wizard sheet_74: 7015695868069527157
+      Green Wizard sheet_75: -171721434436277436
+      Green Wizard sheet_76: -4045090540068584976
+      Green Wizard sheet_77: 8301333654243117459
+      Green Wizard sheet_8: 3173114588328319596
+      Green Wizard sheet_9: 1646171664975318852
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

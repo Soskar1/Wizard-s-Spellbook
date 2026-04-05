@@ -1,0 +1,2158 @@
+fileFormatVersion: 2
+guid: e388616eb7ba79448bff9b35660ed4ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6965074985471993023
+    second: Purple Wizard sheet_0
+  - first:
+      213: -1201975017048295350
+    second: Purple Wizard sheet_1
+  - first:
+      213: 203278404976515247
+    second: Purple Wizard sheet_2
+  - first:
+      213: -5022719653476449009
+    second: Purple Wizard sheet_3
+  - first:
+      213: 2502425370946367258
+    second: Purple Wizard sheet_4
+  - first:
+      213: -8370591070699979296
+    second: Purple Wizard sheet_5
+  - first:
+      213: -8689625341629108524
+    second: Purple Wizard sheet_6
+  - first:
+      213: -5405203268167006385
+    second: Purple Wizard sheet_7
+  - first:
+      213: -838573737599715767
+    second: Purple Wizard sheet_8
+  - first:
+      213: -8227034974322990271
+    second: Purple Wizard sheet_9
+  - first:
+      213: 3875362298704979036
+    second: Purple Wizard sheet_10
+  - first:
+      213: 2415030787138064348
+    second: Purple Wizard sheet_11
+  - first:
+      213: -4343728848468897270
+    second: Purple Wizard sheet_12
+  - first:
+      213: -2776151368357932259
+    second: Purple Wizard sheet_13
+  - first:
+      213: -325420492088015462
+    second: Purple Wizard sheet_14
+  - first:
+      213: 2028072821866076140
+    second: Purple Wizard sheet_15
+  - first:
+      213: -929591740375502308
+    second: Purple Wizard sheet_16
+  - first:
+      213: -3837868263742017693
+    second: Purple Wizard sheet_17
+  - first:
+      213: -3743282323524938910
+    second: Purple Wizard sheet_18
+  - first:
+      213: -8575207771462241876
+    second: Purple Wizard sheet_19
+  - first:
+      213: 9098316003387416228
+    second: Purple Wizard sheet_20
+  - first:
+      213: 1692096143845791504
+    second: Purple Wizard sheet_21
+  - first:
+      213: 6366380141750004451
+    second: Purple Wizard sheet_22
+  - first:
+      213: 4818959946626653187
+    second: Purple Wizard sheet_23
+  - first:
+      213: 4591599836305286110
+    second: Purple Wizard sheet_24
+  - first:
+      213: 2654549968149280074
+    second: Purple Wizard sheet_25
+  - first:
+      213: 610142516649229153
+    second: Purple Wizard sheet_26
+  - first:
+      213: 7339447458198123531
+    second: Purple Wizard sheet_27
+  - first:
+      213: 3382967180324632645
+    second: Purple Wizard sheet_28
+  - first:
+      213: 8338623622156816471
+    second: Purple Wizard sheet_29
+  - first:
+      213: -5570613582701915540
+    second: Purple Wizard sheet_30
+  - first:
+      213: -951854716270367985
+    second: Purple Wizard sheet_31
+  - first:
+      213: -3016521319878597568
+    second: Purple Wizard sheet_32
+  - first:
+      213: -2979790266620656231
+    second: Purple Wizard sheet_33
+  - first:
+      213: -3131222682288998188
+    second: Purple Wizard sheet_34
+  - first:
+      213: 4539530853199987281
+    second: Purple Wizard sheet_35
+  - first:
+      213: 5581021761252368141
+    second: Purple Wizard sheet_36
+  - first:
+      213: -2150337278335705416
+    second: Purple Wizard sheet_37
+  - first:
+      213: -4789381259429793996
+    second: Purple Wizard sheet_38
+  - first:
+      213: -5276629342315231861
+    second: Purple Wizard sheet_39
+  - first:
+      213: 8446849405566501697
+    second: Purple Wizard sheet_40
+  - first:
+      213: 6384538346614804717
+    second: Purple Wizard sheet_41
+  - first:
+      213: 2544157750577641826
+    second: Purple Wizard sheet_42
+  - first:
+      213: -9112790140745627160
+    second: Purple Wizard sheet_43
+  - first:
+      213: -3980938216249473726
+    second: Purple Wizard sheet_44
+  - first:
+      213: 7942755840929144662
+    second: Purple Wizard sheet_45
+  - first:
+      213: 5328056543790894692
+    second: Purple Wizard sheet_46
+  - first:
+      213: -3586616303463427229
+    second: Purple Wizard sheet_47
+  - first:
+      213: -5353540528733568566
+    second: Purple Wizard sheet_48
+  - first:
+      213: -976845472557304535
+    second: Purple Wizard sheet_49
+  - first:
+      213: -5615594033422076230
+    second: Purple Wizard sheet_50
+  - first:
+      213: -7656020006365029190
+    second: Purple Wizard sheet_51
+  - first:
+      213: 5932502638997232761
+    second: Purple Wizard sheet_52
+  - first:
+      213: 3513971341540643083
+    second: Purple Wizard sheet_53
+  - first:
+      213: 1892323698768630238
+    second: Purple Wizard sheet_54
+  - first:
+      213: 7680195920836937270
+    second: Purple Wizard sheet_55
+  - first:
+      213: -1180657146017504910
+    second: Purple Wizard sheet_56
+  - first:
+      213: -2555331990279648252
+    second: Purple Wizard sheet_57
+  - first:
+      213: -8301762048698875984
+    second: Purple Wizard sheet_58
+  - first:
+      213: -870536378568184720
+    second: Purple Wizard sheet_59
+  - first:
+      213: -7064539188450654140
+    second: Purple Wizard sheet_60
+  - first:
+      213: 4938782218951504116
+    second: Purple Wizard sheet_61
+  - first:
+      213: -1961833866963745622
+    second: Purple Wizard sheet_62
+  - first:
+      213: -2961608993261947279
+    second: Purple Wizard sheet_63
+  - first:
+      213: -2132378149035124432
+    second: Purple Wizard sheet_64
+  - first:
+      213: -9005867776906116349
+    second: Purple Wizard sheet_65
+  - first:
+      213: 2246908237857947225
+    second: Purple Wizard sheet_66
+  - first:
+      213: 5702508702288484701
+    second: Purple Wizard sheet_67
+  - first:
+      213: 2167293520379125571
+    second: Purple Wizard sheet_68
+  - first:
+      213: 8672469397941409601
+    second: Purple Wizard sheet_69
+  - first:
+      213: -3881410971183128124
+    second: Purple Wizard sheet_70
+  - first:
+      213: 6785449357685252420
+    second: Purple Wizard sheet_71
+  - first:
+      213: 8440866588938618158
+    second: Purple Wizard sheet_72
+  - first:
+      213: -5980575679287178513
+    second: Purple Wizard sheet_73
+  - first:
+      213: -8225330235582520803
+    second: Purple Wizard sheet_74
+  - first:
+      213: -5730345760657268871
+    second: Purple Wizard sheet_75
+  - first:
+      213: -7679294270596978018
+    second: Purple Wizard sheet_76
+  - first:
+      213: 8053495809177481990
+    second: Purple Wizard sheet_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Wizard sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 639
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b9bf80435175f90800000000000000
+      internalID: -6965074985471993023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 639
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4831ff171ab15fe0800000000000000
+      internalID: -1201975017048295350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 639
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8122fd1a032d200800000000000000
+      internalID: 203278404976515247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 639
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05c9203617bb4ab0800000000000000
+      internalID: -5022719653476449009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 639
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fee20dd966ab220800000000000000
+      internalID: 2502425370946367258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 639
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edfede35cfa5db80800000000000000
+      internalID: -8370591070699979296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 575
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dee6f89acf386780800000000000000
+      internalID: -8689625341629108524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47002ef34cdcf4b0800000000000000
+      internalID: -5405203268167006385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 575
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946b56ce0a9cc54f0800000000000000
+      internalID: -838573737599715767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 575
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14363c09743b3dd80800000000000000
+      internalID: -8227034974322990271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 575
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5460466a7d08c530800000000000000
+      internalID: 3875362298704979036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 575
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf0ffc94b9e38120800000000000000
+      internalID: 2415030787138064348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 511
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02156a50a9f7b3c0800000000000000
+      internalID: -4343728848468897270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 511
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d139f460a012979d0800000000000000
+      internalID: -2776151368357932259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 511
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95067e59cfdb7bf0800000000000000
+      internalID: -325420492088015462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 511
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce793fd7c79252c10800000000000000
+      internalID: 2028072821866076140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 511
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12f7c0cc3d6913f0800000000000000
+      internalID: -929591740375502308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 511
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f69e4e5272dbac0800000000000000
+      internalID: -3837868263742017693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 447
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2631c4c3f803d0cc0800000000000000
+      internalID: -3743282323524938910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1f2da17fdbef880800000000000000
+      internalID: -8575207771462241876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae982c3336b34e70800000000000000
+      internalID: 9098316003387416228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 449
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0179cbb4a788b7710800000000000000
+      internalID: 1692096143845791504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 447
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea2c16220de95850800000000000000
+      internalID: 6366380141750004451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 447
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c548d1a8260e240800000000000000
+      internalID: 4818959946626653187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 383
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3e7b949b3a8bf30800000000000000
+      internalID: 4591599836305286110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 383
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45ff02b12bd6d420800000000000000
+      internalID: 2654549968149280074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 383
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b7d3fd269a77800800000000000000
+      internalID: 610142516649229153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 383
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04fa81c394fad560800000000000000
+      internalID: 7339447458198123531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 383
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548fd0e0ab6b2fe20800000000000000
+      internalID: 3382967180324632645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 383
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7509652210eb8b370800000000000000
+      internalID: 8338623622156816471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62161ef57431b2b0800000000000000
+      internalID: -5570613582701915540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0baceebd255ac2f0800000000000000
+      internalID: -951854716270367985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 319
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0446e3f77d92326d0800000000000000
+      internalID: -3016521319878597568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 319
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995c8e44a88a5a6d0800000000000000
+      internalID: -2979790266620656231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 319
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8b4857f89ab84d0800000000000000
+      internalID: -3131222682288998188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15249ef6247affe30800000000000000
+      internalID: 4539530853199987281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f1c2be8b5c37d40800000000000000
+      internalID: 5581021761252368141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be158963a77822e0800000000000000
+      internalID: -2150337278335705416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f26c9ae13b88db0800000000000000
+      internalID: -4789381259429793996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 255
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85c5e7e195a5c6b0800000000000000
+      internalID: -5276629342315231861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143c202f7cc393570800000000000000
+      internalID: 8446849405566501697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0d5dcaccf6a9850800000000000000
+      internalID: 6384538346614804717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269bcbf9ef9ae4320800000000000000
+      internalID: 2544157750577641826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9cc2c06add88180800000000000000
+      internalID: -9112790140745627160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2454ca3c8cdd0c8c0800000000000000
+      internalID: -3980938216249473726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 191
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f9d34da565a3e60800000000000000
+      internalID: 7942755840929144662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e0ad3823f01f940800000000000000
+      internalID: 5328056543790894692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36310768977c93ec0800000000000000
+      internalID: -3586616303463427229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 211
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1cd2ed04764b5b0800000000000000
+      internalID: -5353540528733568566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 224
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925f5cfd73c8172f0800000000000000
+      internalID: -976845472557304535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 191
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6f213baf66112b0800000000000000
+      internalID: -5615594033422076230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc14571e5a50c590800000000000000
+      internalID: -7656020006365029190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c5f7ae7bb745250800000000000000
+      internalID: 5932502638997232761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 127
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01de6b315224c030800000000000000
+      internalID: 3513971341540643083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 113
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed15829c062e24a10800000000000000
+      internalID: 1892323698768630238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636c3e2af79859a60800000000000000
+      internalID: 7680195920836937270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 122
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271a912c4967d9fe0800000000000000
+      internalID: -1180657146017504910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 127
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c8034f713a98cd0800000000000000
+      internalID: -2555331990279648252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bffb7db6673acc80800000000000000
+      internalID: -8301762048698875984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6367a6cb3be3f0800000000000000
+      internalID: -870536378568184720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_60
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 101
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4488292a907b5fd90800000000000000
+      internalID: -7064539188450654140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_61
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 83
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0be97e2441a8440800000000000000
+      internalID: 4938782218951504116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa48b430e7a26c4e0800000000000000
+      internalID: -1961833866963745622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 78
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176f409df4046e6d0800000000000000
+      internalID: -2961608993261947279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 84
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039d4fb0f554862e0800000000000000
+      internalID: -2132378149035124432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_65
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 82
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303cf57d8fab40380800000000000000
+      internalID: -9005867776906116349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_66
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 78
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95efb60432f9e2f10800000000000000
+      internalID: 2246908237857947225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d599a789371632f40800000000000000
+      internalID: 5702508702288484701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 63
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f143659f5c31e10800000000000000
+      internalID: 2167293520379125571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1475ebdf7fcca5870800000000000000
+      internalID: 8672469397941409601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1635b4945722ac0800000000000000
+      internalID: -3881410971183128124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4416b3e6d32ca2e50800000000000000
+      internalID: 6785449357685252420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_72
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e254626e07bf32570800000000000000
+      internalID: 8440866588938618158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_73
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea4fbb2b1ab00da0800000000000000
+      internalID: -5980575679287178513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_74
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e2dbfab1c9dd80800000000000000
+      internalID: -8225330235582520803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_75
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f9bdf24e8b970b0800000000000000
+      internalID: -5730345760657268871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_76
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9aef5b2c8aad6590800000000000000
+      internalID: -7679294270596978018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Wizard sheet_77
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603fe1ae4c3c3cf60800000000000000
+      internalID: 8053495809177481990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Purple Wizard sheet_0: -6965074985471993023
+      Purple Wizard sheet_1: -1201975017048295350
+      Purple Wizard sheet_10: 3875362298704979036
+      Purple Wizard sheet_11: 2415030787138064348
+      Purple Wizard sheet_12: -4343728848468897270
+      Purple Wizard sheet_13: -2776151368357932259
+      Purple Wizard sheet_14: -325420492088015462
+      Purple Wizard sheet_15: 2028072821866076140
+      Purple Wizard sheet_16: -929591740375502308
+      Purple Wizard sheet_17: -3837868263742017693
+      Purple Wizard sheet_18: -3743282323524938910
+      Purple Wizard sheet_19: -8575207771462241876
+      Purple Wizard sheet_2: 203278404976515247
+      Purple Wizard sheet_20: 9098316003387416228
+      Purple Wizard sheet_21: 1692096143845791504
+      Purple Wizard sheet_22: 6366380141750004451
+      Purple Wizard sheet_23: 4818959946626653187
+      Purple Wizard sheet_24: 4591599836305286110
+      Purple Wizard sheet_25: 2654549968149280074
+      Purple Wizard sheet_26: 610142516649229153
+      Purple Wizard sheet_27: 7339447458198123531
+      Purple Wizard sheet_28: 3382967180324632645
+      Purple Wizard sheet_29: 8338623622156816471
+      Purple Wizard sheet_3: -5022719653476449009
+      Purple Wizard sheet_30: -5570613582701915540
+      Purple Wizard sheet_31: -951854716270367985
+      Purple Wizard sheet_32: -3016521319878597568
+      Purple Wizard sheet_33: -2979790266620656231
+      Purple Wizard sheet_34: -3131222682288998188
+      Purple Wizard sheet_35: 4539530853199987281
+      Purple Wizard sheet_36: 5581021761252368141
+      Purple Wizard sheet_37: -2150337278335705416
+      Purple Wizard sheet_38: -4789381259429793996
+      Purple Wizard sheet_39: -5276629342315231861
+      Purple Wizard sheet_4: 2502425370946367258
+      Purple Wizard sheet_40: 8446849405566501697
+      Purple Wizard sheet_41: 6384538346614804717
+      Purple Wizard sheet_42: 2544157750577641826
+      Purple Wizard sheet_43: -9112790140745627160
+      Purple Wizard sheet_44: -3980938216249473726
+      Purple Wizard sheet_45: 7942755840929144662
+      Purple Wizard sheet_46: 5328056543790894692
+      Purple Wizard sheet_47: -3586616303463427229
+      Purple Wizard sheet_48: -5353540528733568566
+      Purple Wizard sheet_49: -976845472557304535
+      Purple Wizard sheet_5: -8370591070699979296
+      Purple Wizard sheet_50: -5615594033422076230
+      Purple Wizard sheet_51: -7656020006365029190
+      Purple Wizard sheet_52: 5932502638997232761
+      Purple Wizard sheet_53: 3513971341540643083
+      Purple Wizard sheet_54: 1892323698768630238
+      Purple Wizard sheet_55: 7680195920836937270
+      Purple Wizard sheet_56: -1180657146017504910
+      Purple Wizard sheet_57: -2555331990279648252
+      Purple Wizard sheet_58: -8301762048698875984
+      Purple Wizard sheet_59: -870536378568184720
+      Purple Wizard sheet_6: -8689625341629108524
+      Purple Wizard sheet_60: -7064539188450654140
+      Purple Wizard sheet_61: 4938782218951504116
+      Purple Wizard sheet_62: -1961833866963745622
+      Purple Wizard sheet_63: -2961608993261947279
+      Purple Wizard sheet_64: -2132378149035124432
+      Purple Wizard sheet_65: -9005867776906116349
+      Purple Wizard sheet_66: 2246908237857947225
+      Purple Wizard sheet_67: 5702508702288484701
+      Purple Wizard sheet_68: 2167293520379125571
+      Purple Wizard sheet_69: 8672469397941409601
+      Purple Wizard sheet_7: -5405203268167006385
+      Purple Wizard sheet_70: -3881410971183128124
+      Purple Wizard sheet_71: 6785449357685252420
+      Purple Wizard sheet_72: 8440866588938618158
+      Purple Wizard sheet_73: -5980575679287178513
+      Purple Wizard sheet_74: -8225330235582520803
+      Purple Wizard sheet_75: -5730345760657268871
+      Purple Wizard sheet_76: -7679294270596978018
+      Purple Wizard sheet_77: 8053495809177481990
+      Purple Wizard sheet_8: -838573737599715767
+      Purple Wizard sheet_9: -8227034974322990271
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

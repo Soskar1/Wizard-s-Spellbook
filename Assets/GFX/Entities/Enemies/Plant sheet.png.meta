@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 426459c6001dfc146a6f2438c5f24fb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3354113543617606828
+    second: Plant sheet_0
+  - first:
+      213: 2262763071737535824
+    second: Plant sheet_1
+  - first:
+      213: 1282645475113594119
+    second: Plant sheet_2
+  - first:
+      213: 934544965373886945
+    second: Plant sheet_3
+  - first:
+      213: -6909291075878936586
+    second: Plant sheet_4
+  - first:
+      213: 3392956682774787809
+    second: Plant sheet_5
+  - first:
+      213: -5790764830049005867
+    second: Plant sheet_6
+  - first:
+      213: -8248800753237842366
+    second: Plant sheet_7
+  - first:
+      213: 4485534005471011330
+    second: Plant sheet_8
+  - first:
+      213: 953160104200159442
+    second: Plant sheet_9
+  - first:
+      213: 4925424785502572037
+    second: Plant sheet_10
+  - first:
+      213: -539813145082164434
+    second: Plant sheet_11
+  - first:
+      213: -5717349850057501511
+    second: Plant sheet_12
+  - first:
+      213: -2283133323784719037
+    second: Plant sheet_13
+  - first:
+      213: -5790468894278840179
+    second: Plant sheet_14
+  - first:
+      213: 5698901633105354741
+    second: Plant sheet_15
+  - first:
+      213: 4588663929907812508
+    second: Plant sheet_16
+  - first:
+      213: -7216054065896051120
+    second: Plant sheet_17
+  - first:
+      213: -256142255216955424
+    second: Plant sheet_18
+  - first:
+      213: 7254756651437985375
+    second: Plant sheet_19
+  - first:
+      213: -3061525763686802515
+    second: Plant sheet_20
+  - first:
+      213: 4714002577544912733
+    second: Plant sheet_21
+  - first:
+      213: -2703841557266352598
+    second: Plant sheet_22
+  - first:
+      213: 2375023343804433589
+    second: Plant sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plant sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca477af3f743c8e20800000000000000
+      internalID: 3354113543617606828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d99cd6603f66f10800000000000000
+      internalID: 2262763071737535824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 191
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d68ec834fdcc110800000000000000
+      internalID: 1282645475113594119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 191
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e18dbfc1bb28fc00800000000000000
+      internalID: 934544965373886945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 191
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff957c9f544d10a0800000000000000
+      internalID: -6909291075878936586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 127
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e634175024361f20800000000000000
+      internalID: 3392956682774787809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 127
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de8a1f511213afa0800000000000000
+      internalID: -5790764830049005867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 127
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246a8404b6f568d80800000000000000
+      internalID: -8248800753237842366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 127
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202e800a961df3e30800000000000000
+      internalID: 4485534005471011330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 127
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0cce0901e4a3d00800000000000000
+      internalID: 953160104200159442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 127
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e09c31fbf9a5440800000000000000
+      internalID: 4925424785502572037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 127
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b8a4afdc23288f0800000000000000
+      internalID: -539813145082164434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_12
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 127
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b490ba6a94e7a0b0800000000000000
+      internalID: -5717349850057501511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34574fca65ea050e0800000000000000
+      internalID: -2283133323784719037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d809f89483f14afa0800000000000000
+      internalID: -5790468894278840179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff532b57d0961f40800000000000000
+      internalID: 5698901633105354741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 63
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c989dcf48853eaf30800000000000000
+      internalID: 4588663929907812508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ea0423f0d6bdb90800000000000000
+      internalID: -7216054065896051120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 63
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef63d9d9fff17cf0800000000000000
+      internalID: -256142255216955424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e0dd4bcb21ea460800000000000000
+      internalID: 7254756651437985375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabddb0e9864385d0800000000000000
+      internalID: -3061525763686802515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f17d05e508b6140800000000000000
+      internalID: 4714002577544912733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a263332ed660a7ad0800000000000000
+      internalID: -2703841557266352598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant sheet_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b449b4d527c5f020800000000000000
+      internalID: 2375023343804433589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plant sheet_0: 3354113543617606828
+      Plant sheet_1: 2262763071737535824
+      Plant sheet_10: 4925424785502572037
+      Plant sheet_11: -539813145082164434
+      Plant sheet_12: -5717349850057501511
+      Plant sheet_13: -2283133323784719037
+      Plant sheet_14: -5790468894278840179
+      Plant sheet_15: 5698901633105354741
+      Plant sheet_16: 4588663929907812508
+      Plant sheet_17: -7216054065896051120
+      Plant sheet_18: -256142255216955424
+      Plant sheet_19: 7254756651437985375
+      Plant sheet_2: 1282645475113594119
+      Plant sheet_20: -3061525763686802515
+      Plant sheet_21: 4714002577544912733
+      Plant sheet_22: -2703841557266352598
+      Plant sheet_23: 2375023343804433589
+      Plant sheet_3: 934544965373886945
+      Plant sheet_4: -6909291075878936586
+      Plant sheet_5: 3392956682774787809
+      Plant sheet_6: -5790764830049005867
+      Plant sheet_7: -8248800753237842366
+      Plant sheet_8: 4485534005471011330
+      Plant sheet_9: 953160104200159442
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

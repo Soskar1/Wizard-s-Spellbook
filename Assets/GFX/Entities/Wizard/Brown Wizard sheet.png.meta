@@ -1,0 +1,2158 @@
+fileFormatVersion: 2
+guid: 962d66d65ebfd7840b0651978720b42c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -553720884363777648
+    second: Brown Wizard sheet_0
+  - first:
+      213: 4561284726076727566
+    second: Brown Wizard sheet_1
+  - first:
+      213: -4720679779760632629
+    second: Brown Wizard sheet_2
+  - first:
+      213: -5656087700576623935
+    second: Brown Wizard sheet_3
+  - first:
+      213: 8108669375500653876
+    second: Brown Wizard sheet_4
+  - first:
+      213: 3323228345453647536
+    second: Brown Wizard sheet_5
+  - first:
+      213: -7475081096768969946
+    second: Brown Wizard sheet_6
+  - first:
+      213: 8864211492030102750
+    second: Brown Wizard sheet_7
+  - first:
+      213: -985316726712229369
+    second: Brown Wizard sheet_8
+  - first:
+      213: 8533083673638934299
+    second: Brown Wizard sheet_9
+  - first:
+      213: 4531221711132933882
+    second: Brown Wizard sheet_10
+  - first:
+      213: -2917900659365260156
+    second: Brown Wizard sheet_11
+  - first:
+      213: -2864408355685677148
+    second: Brown Wizard sheet_12
+  - first:
+      213: -5158403332072939633
+    second: Brown Wizard sheet_13
+  - first:
+      213: 845631314032265883
+    second: Brown Wizard sheet_14
+  - first:
+      213: -5574822361364946814
+    second: Brown Wizard sheet_15
+  - first:
+      213: 3261783294238417941
+    second: Brown Wizard sheet_16
+  - first:
+      213: 2405982549488973581
+    second: Brown Wizard sheet_17
+  - first:
+      213: 3649840171952626917
+    second: Brown Wizard sheet_18
+  - first:
+      213: 2651014445191338135
+    second: Brown Wizard sheet_19
+  - first:
+      213: -7524720141659326814
+    second: Brown Wizard sheet_20
+  - first:
+      213: 5489729841846959377
+    second: Brown Wizard sheet_21
+  - first:
+      213: 5803698263455962491
+    second: Brown Wizard sheet_22
+  - first:
+      213: -3339630148570351307
+    second: Brown Wizard sheet_23
+  - first:
+      213: -5517784430922935063
+    second: Brown Wizard sheet_24
+  - first:
+      213: -1643746589600059438
+    second: Brown Wizard sheet_25
+  - first:
+      213: 3816996167931966634
+    second: Brown Wizard sheet_26
+  - first:
+      213: 5802413917198156983
+    second: Brown Wizard sheet_27
+  - first:
+      213: -5666204887822644161
+    second: Brown Wizard sheet_28
+  - first:
+      213: 4493523999325697177
+    second: Brown Wizard sheet_29
+  - first:
+      213: -1776570543956041898
+    second: Brown Wizard sheet_30
+  - first:
+      213: -5528885377208980907
+    second: Brown Wizard sheet_31
+  - first:
+      213: -7923952581577812772
+    second: Brown Wizard sheet_32
+  - first:
+      213: 6880410864566876952
+    second: Brown Wizard sheet_33
+  - first:
+      213: 1790533971779692605
+    second: Brown Wizard sheet_34
+  - first:
+      213: -7920099388788994504
+    second: Brown Wizard sheet_35
+  - first:
+      213: -7100359836765684937
+    second: Brown Wizard sheet_36
+  - first:
+      213: 4159115443175663561
+    second: Brown Wizard sheet_37
+  - first:
+      213: -1942521033886742305
+    second: Brown Wizard sheet_38
+  - first:
+      213: 2668611027439412078
+    second: Brown Wizard sheet_39
+  - first:
+      213: 1483219285071511436
+    second: Brown Wizard sheet_40
+  - first:
+      213: 2978638339311573047
+    second: Brown Wizard sheet_41
+  - first:
+      213: -7995697691174392229
+    second: Brown Wizard sheet_42
+  - first:
+      213: -7983307239032752196
+    second: Brown Wizard sheet_43
+  - first:
+      213: -351050073261364898
+    second: Brown Wizard sheet_44
+  - first:
+      213: -8722522866261738489
+    second: Brown Wizard sheet_45
+  - first:
+      213: 7290651218278013274
+    second: Brown Wizard sheet_46
+  - first:
+      213: -6666842344218806932
+    second: Brown Wizard sheet_47
+  - first:
+      213: -7476787314871990
+    second: Brown Wizard sheet_48
+  - first:
+      213: -2637940975066045819
+    second: Brown Wizard sheet_49
+  - first:
+      213: -3972926913437974653
+    second: Brown Wizard sheet_50
+  - first:
+      213: -9063856392938579351
+    second: Brown Wizard sheet_51
+  - first:
+      213: 5228794947772679725
+    second: Brown Wizard sheet_52
+  - first:
+      213: -2107441502157011047
+    second: Brown Wizard sheet_53
+  - first:
+      213: 2454927225354047550
+    second: Brown Wizard sheet_54
+  - first:
+      213: 5961486351100000043
+    second: Brown Wizard sheet_55
+  - first:
+      213: -4389523691515278145
+    second: Brown Wizard sheet_56
+  - first:
+      213: 3000007583376321887
+    second: Brown Wizard sheet_57
+  - first:
+      213: 1886874920296830500
+    second: Brown Wizard sheet_58
+  - first:
+      213: -2596981307901477809
+    second: Brown Wizard sheet_59
+  - first:
+      213: 4978906839665142631
+    second: Brown Wizard sheet_60
+  - first:
+      213: 1595860455833552383
+    second: Brown Wizard sheet_61
+  - first:
+      213: -5557371098231782577
+    second: Brown Wizard sheet_62
+  - first:
+      213: -972388271749470614
+    second: Brown Wizard sheet_63
+  - first:
+      213: -743524514318631658
+    second: Brown Wizard sheet_64
+  - first:
+      213: -91781612529686715
+    second: Brown Wizard sheet_65
+  - first:
+      213: -6428657188169580282
+    second: Brown Wizard sheet_66
+  - first:
+      213: 8808790539318901618
+    second: Brown Wizard sheet_67
+  - first:
+      213: -7654938139838430793
+    second: Brown Wizard sheet_68
+  - first:
+      213: -5381960711929571910
+    second: Brown Wizard sheet_69
+  - first:
+      213: 4818600753119812092
+    second: Brown Wizard sheet_70
+  - first:
+      213: -3912398339163523347
+    second: Brown Wizard sheet_71
+  - first:
+      213: -8713409018974941358
+    second: Brown Wizard sheet_72
+  - first:
+      213: -8318471785072449260
+    second: Brown Wizard sheet_73
+  - first:
+      213: 4474520515043834066
+    second: Brown Wizard sheet_74
+  - first:
+      213: -6771029738643636577
+    second: Brown Wizard sheet_75
+  - first:
+      213: 4525662782753539408
+    second: Brown Wizard sheet_76
+  - first:
+      213: 7037722725719746553
+    second: Brown Wizard sheet_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown Wizard sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 639
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09928c61ac9c058f0800000000000000
+      internalID: -553720884363777648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 639
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01e739aa40fc4f30800000000000000
+      internalID: 4561284726076727566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 639
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc8ff460c6cc7eb0800000000000000
+      internalID: -4720679779760632629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 639
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2acac143a8181b0800000000000000
+      internalID: -5656087700576623935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 639
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4351ecfd5d7c78070800000000000000
+      internalID: 8108669375500653876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 639
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6164ea29a7e1e20800000000000000
+      internalID: 3323228345453647536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 575
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62329dfd85d234890800000000000000
+      internalID: -7475081096768969946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcb36c2361040b70800000000000000
+      internalID: 8864211492030102750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 575
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702211158a37352f0800000000000000
+      internalID: -985316726712229369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 575
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b171fe5146a9b6670800000000000000
+      internalID: 8533083673638934299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 575
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afebd9a832222ee30800000000000000
+      internalID: 4531221711132933882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 575
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484d7ac5fc88187d0800000000000000
+      internalID: -2917900659365260156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 511
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7c1bbd6c39f38d0800000000000000
+      internalID: -2864408355685677148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 511
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fd997ff7ba968b0800000000000000
+      internalID: -5158403332072939633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 511
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a07d323394cbb00800000000000000
+      internalID: 845631314032265883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 511
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28020f8599042a2b0800000000000000
+      internalID: -5574822361364946814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 511
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514626bdf9e244d20800000000000000
+      internalID: 3261783294238417941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 511
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07341e9164c36120800000000000000
+      internalID: 2405982549488973581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 447
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecdf287c46d6a230800000000000000
+      internalID: 3649840171952626917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7981f0c979b4ac420800000000000000
+      internalID: 2651014445191338135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a63b2a16e2d29790800000000000000
+      internalID: -7524720141659326814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 449
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d362094307f2c40800000000000000
+      internalID: 5489729841846959377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 447
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7518d042d0ea8050800000000000000
+      internalID: 5803698263455962491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 447
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5397741f21047a1d0800000000000000
+      internalID: -3339630148570351307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 383
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e458a76b44ec63b0800000000000000
+      internalID: -5517784430922935063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 383
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfe02a8f2d3039e0800000000000000
+      internalID: -1643746589600059438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 383
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4bc9a9ac1b8f430800000000000000
+      internalID: 3816996167931966634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 383
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4016617b0568050800000000000000
+      internalID: 5802413917198156983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 383
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ccfb4eca89d51b0800000000000000
+      internalID: -5666204887822644161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 383
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994308905443c5e30800000000000000
+      internalID: 4493523999325697177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fd311c08a5857e0800000000000000
+      internalID: -1776570543956041898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a6b9fea047543b0800000000000000
+      internalID: -5528885377208980907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 319
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4d3062c17780290800000000000000
+      internalID: -7923952581577812772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 319
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b3f333a312c7f50800000000000000
+      internalID: 6880410864566876952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 319
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38a232292149d810800000000000000
+      internalID: 1790533971779692605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e81718197261290800000000000000
+      internalID: -7920099388788994504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b71280954767d90800000000000000
+      internalID: -7100359836765684937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7a35aa57528b930800000000000000
+      internalID: 4159115443175663561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8c47e5967ca05e0800000000000000
+      internalID: -1942521033886742305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 255
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63673e279fc80520800000000000000
+      internalID: 2668611027439412078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f32b2d414759410800000000000000
+      internalID: 1483219285071511436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7389601c9cf365920800000000000000
+      internalID: 2978638339311573047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ea32a1053990190800000000000000
+      internalID: -7995697691174392229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7f5ac0d58953190800000000000000
+      internalID: -7983307239032752196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59a1ec71d1d02bf0800000000000000
+      internalID: -351050073261364898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 191
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c3f33caaf53f680800000000000000
+      internalID: -8722522866261738489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59dabec7a89d2560800000000000000
+      internalID: 7290651218278013274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c653e4bd53e9a73a0800000000000000
+      internalID: -6666842344218806932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 211
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41390cc6ef65eff0800000000000000
+      internalID: -7476787314871990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 224
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582adbad8a6246bd0800000000000000
+      internalID: -2637940975066045819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 191
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fb0fd85045dd8c0800000000000000
+      internalID: -3972926913437974653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a1ebb02a6b63280800000000000000
+      internalID: -9063856392938579351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2609593d49609840800000000000000
+      internalID: 5228794947772679725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 127
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99704079e1dd0c2e0800000000000000
+      internalID: -2107441502157011047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 113
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30d9a00e47a11220800000000000000
+      internalID: 2454927225354047550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27b7a240447bb250800000000000000
+      internalID: 5961486351100000043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 122
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc021295774513c0800000000000000
+      internalID: -4389523691515278145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 127
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5daf9a900b22a920800000000000000
+      internalID: 3000007583376321887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426d2ef2eb68f2a10800000000000000
+      internalID: 1886874920296830500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cf336824ba5fbd0800000000000000
+      internalID: -2596981307901477809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_60
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 101
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76be00c2461a81540800000000000000
+      internalID: 4978906839665142631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_61
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 83
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff54d0d11a2a52610800000000000000
+      internalID: 1595860455833552383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f434fdc2e6040e2b0800000000000000
+      internalID: -5557371098231782577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 78
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66ed9ec4026182f0800000000000000
+      internalID: -972388271749470614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 84
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d3e32c4687ea5f0800000000000000
+      internalID: -743524514318631658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_65
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 82
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54761441c1de9bef0800000000000000
+      internalID: -91781612529686715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_66
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 78
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601046c0952d8c6a0800000000000000
+      internalID: -6428657188169580282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bbce4135c1f3a70800000000000000
+      internalID: 8808790539318901618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 63
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b14755c15234c590800000000000000
+      internalID: -7654938139838430793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab554525f3f6f45b0800000000000000
+      internalID: -5381960711929571910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9d22cdadb1fd240800000000000000
+      internalID: 4818600753119812092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de67456707e54b9c0800000000000000
+      internalID: -3912398339163523347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_72
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f4051b9a0c31780800000000000000
+      internalID: -8713409018974941358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_73
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419a5a01cf9de8c80800000000000000
+      internalID: -8318471785072449260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_74
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8b26f83b0b81e30800000000000000
+      internalID: 4474520515043834066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_75
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e3a80c3587802a0800000000000000
+      internalID: -6771029738643636577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_76
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0550b3ba2526ece30800000000000000
+      internalID: 4525662782753539408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Wizard sheet_77
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7283618830ba160800000000000000
+      internalID: 7037722725719746553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brown Wizard sheet_0: -553720884363777648
+      Brown Wizard sheet_1: 4561284726076727566
+      Brown Wizard sheet_10: 4531221711132933882
+      Brown Wizard sheet_11: -2917900659365260156
+      Brown Wizard sheet_12: -2864408355685677148
+      Brown Wizard sheet_13: -5158403332072939633
+      Brown Wizard sheet_14: 845631314032265883
+      Brown Wizard sheet_15: -5574822361364946814
+      Brown Wizard sheet_16: 3261783294238417941
+      Brown Wizard sheet_17: 2405982549488973581
+      Brown Wizard sheet_18: 3649840171952626917
+      Brown Wizard sheet_19: 2651014445191338135
+      Brown Wizard sheet_2: -4720679779760632629
+      Brown Wizard sheet_20: -7524720141659326814
+      Brown Wizard sheet_21: 5489729841846959377
+      Brown Wizard sheet_22: 5803698263455962491
+      Brown Wizard sheet_23: -3339630148570351307
+      Brown Wizard sheet_24: -5517784430922935063
+      Brown Wizard sheet_25: -1643746589600059438
+      Brown Wizard sheet_26: 3816996167931966634
+      Brown Wizard sheet_27: 5802413917198156983
+      Brown Wizard sheet_28: -5666204887822644161
+      Brown Wizard sheet_29: 4493523999325697177
+      Brown Wizard sheet_3: -5656087700576623935
+      Brown Wizard sheet_30: -1776570543956041898
+      Brown Wizard sheet_31: -5528885377208980907
+      Brown Wizard sheet_32: -7923952581577812772
+      Brown Wizard sheet_33: 6880410864566876952
+      Brown Wizard sheet_34: 1790533971779692605
+      Brown Wizard sheet_35: -7920099388788994504
+      Brown Wizard sheet_36: -7100359836765684937
+      Brown Wizard sheet_37: 4159115443175663561
+      Brown Wizard sheet_38: -1942521033886742305
+      Brown Wizard sheet_39: 2668611027439412078
+      Brown Wizard sheet_4: 8108669375500653876
+      Brown Wizard sheet_40: 1483219285071511436
+      Brown Wizard sheet_41: 2978638339311573047
+      Brown Wizard sheet_42: -7995697691174392229
+      Brown Wizard sheet_43: -7983307239032752196
+      Brown Wizard sheet_44: -351050073261364898
+      Brown Wizard sheet_45: -8722522866261738489
+      Brown Wizard sheet_46: 7290651218278013274
+      Brown Wizard sheet_47: -6666842344218806932
+      Brown Wizard sheet_48: -7476787314871990
+      Brown Wizard sheet_49: -2637940975066045819
+      Brown Wizard sheet_5: 3323228345453647536
+      Brown Wizard sheet_50: -3972926913437974653
+      Brown Wizard sheet_51: -9063856392938579351
+      Brown Wizard sheet_52: 5228794947772679725
+      Brown Wizard sheet_53: -2107441502157011047
+      Brown Wizard sheet_54: 2454927225354047550
+      Brown Wizard sheet_55: 5961486351100000043
+      Brown Wizard sheet_56: -4389523691515278145
+      Brown Wizard sheet_57: 3000007583376321887
+      Brown Wizard sheet_58: 1886874920296830500
+      Brown Wizard sheet_59: -2596981307901477809
+      Brown Wizard sheet_6: -7475081096768969946
+      Brown Wizard sheet_60: 4978906839665142631
+      Brown Wizard sheet_61: 1595860455833552383
+      Brown Wizard sheet_62: -5557371098231782577
+      Brown Wizard sheet_63: -972388271749470614
+      Brown Wizard sheet_64: -743524514318631658
+      Brown Wizard sheet_65: -91781612529686715
+      Brown Wizard sheet_66: -6428657188169580282
+      Brown Wizard sheet_67: 8808790539318901618
+      Brown Wizard sheet_68: -7654938139838430793
+      Brown Wizard sheet_69: -5381960711929571910
+      Brown Wizard sheet_7: 8864211492030102750
+      Brown Wizard sheet_70: 4818600753119812092
+      Brown Wizard sheet_71: -3912398339163523347
+      Brown Wizard sheet_72: -8713409018974941358
+      Brown Wizard sheet_73: -8318471785072449260
+      Brown Wizard sheet_74: 4474520515043834066
+      Brown Wizard sheet_75: -6771029738643636577
+      Brown Wizard sheet_76: 4525662782753539408
+      Brown Wizard sheet_77: 7037722725719746553
+      Brown Wizard sheet_8: -985316726712229369
+      Brown Wizard sheet_9: 8533083673638934299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 22b6265131412154da07be451afbaac5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1469801066259019120
+    second: Orc sheet_0
+  - first:
+      213: 2919117522115444019
+    second: Orc sheet_1
+  - first:
+      213: -4730143297785276389
+    second: Orc sheet_2
+  - first:
+      213: -5025700637790886180
+    second: Orc sheet_3
+  - first:
+      213: 4947555020096613223
+    second: Orc sheet_4
+  - first:
+      213: 3951536823159352079
+    second: Orc sheet_5
+  - first:
+      213: 409953738000412722
+    second: Orc sheet_6
+  - first:
+      213: -3644426835938460896
+    second: Orc sheet_7
+  - first:
+      213: 8108781595681233864
+    second: Orc sheet_8
+  - first:
+      213: 3146732458744236325
+    second: Orc sheet_9
+  - first:
+      213: 2123794782588017216
+    second: Orc sheet_10
+  - first:
+      213: 5703538756799955834
+    second: Orc sheet_11
+  - first:
+      213: 6590813511830367240
+    second: Orc sheet_12
+  - first:
+      213: -5138043853726343534
+    second: Orc sheet_13
+  - first:
+      213: -7104127429632081004
+    second: Orc sheet_14
+  - first:
+      213: 4527142671777983932
+    second: Orc sheet_15
+  - first:
+      213: 8487390235680689230
+    second: Orc sheet_16
+  - first:
+      213: -8874957562200502978
+    second: Orc sheet_17
+  - first:
+      213: 2443222805325137667
+    second: Orc sheet_18
+  - first:
+      213: 176400682897518383
+    second: Orc sheet_19
+  - first:
+      213: 6069078921708838126
+    second: Orc sheet_20
+  - first:
+      213: -1829910430462060116
+    second: Orc sheet_21
+  - first:
+      213: -770191632557778601
+    second: Orc sheet_22
+  - first:
+      213: 4983909132096747100
+    second: Orc sheet_23
+  - first:
+      213: -4602620061686388526
+    second: Orc sheet_24
+  - first:
+      213: 1007751725452165270
+    second: Orc sheet_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orc sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 191
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a0423b7b73a9be0800000000000000
+      internalID: -1469801066259019120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 191
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d3f439be9c28820800000000000000
+      internalID: 2919117522115444019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 191
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1850d66bb72b5eb0800000000000000
+      internalID: -4730143297785276389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 191
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd62501b5ef114ab0800000000000000
+      internalID: -5025700637790886180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 191
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b2f87d31f39a440800000000000000
+      internalID: 4947555020096613223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 127
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0be945fdcda6d630800000000000000
+      internalID: 3951536823159352079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 127
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230bbdfa0c270b500800000000000000
+      internalID: 409953738000412722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 127
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bbcf90a156c6dc0800000000000000
+      internalID: -3644426835938460896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 127
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb1ecb26ed288070800000000000000
+      internalID: 8108781595681233864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 127
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52944a6cf707bab20800000000000000
+      internalID: 3146732458744236325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 127
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a9cf73a1c397d10800000000000000
+      internalID: 2123794782588017216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 127
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a730cb9d74a072f40800000000000000
+      internalID: 5703538756799955834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 128
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c6e7928f5477b50800000000000000
+      internalID: 6590813511830367240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 63
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e134a665002b8b0800000000000000
+      internalID: -5138043853726343534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 63
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493cba5fdb1196d90800000000000000
+      internalID: -7104127429632081004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbde6de2644a3de30800000000000000
+      internalID: 4527142671777983932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 63
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ccdd3837449c570800000000000000
+      internalID: 8487390235680689230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 63
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d4f546e11d5d480800000000000000
+      internalID: -8874957562200502978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 63
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307c98a523218e120800000000000000
+      internalID: 2443222805325137667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f2e3a8c73b27200800000000000000
+      internalID: 176400682897518383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec144abf13b93450800000000000000
+      internalID: 6069078921708838126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d685a82ada96e0800000000000000
+      internalID: -1829910430462060116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7595a647acabf45f0800000000000000
+      internalID: -770191632557778601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56b37323f66a2540800000000000000
+      internalID: 4983909132096747100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8a81b80753020c0800000000000000
+      internalID: -4602620061686388526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc sheet_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6900d51ead04cfd00800000000000000
+      internalID: 1007751725452165270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orc sheet_0: -1469801066259019120
+      Orc sheet_1: 2919117522115444019
+      Orc sheet_10: 2123794782588017216
+      Orc sheet_11: 5703538756799955834
+      Orc sheet_12: 6590813511830367240
+      Orc sheet_13: -5138043853726343534
+      Orc sheet_14: -7104127429632081004
+      Orc sheet_15: 4527142671777983932
+      Orc sheet_16: 8487390235680689230
+      Orc sheet_17: -8874957562200502978
+      Orc sheet_18: 2443222805325137667
+      Orc sheet_19: 176400682897518383
+      Orc sheet_2: -4730143297785276389
+      Orc sheet_20: 6069078921708838126
+      Orc sheet_21: -1829910430462060116
+      Orc sheet_22: -770191632557778601
+      Orc sheet_23: 4983909132096747100
+      Orc sheet_24: -4602620061686388526
+      Orc sheet_25: 1007751725452165270
+      Orc sheet_3: -5025700637790886180
+      Orc sheet_4: 4947555020096613223
+      Orc sheet_5: 3951536823159352079
+      Orc sheet_6: 409953738000412722
+      Orc sheet_7: -3644426835938460896
+      Orc sheet_8: 8108781595681233864
+      Orc sheet_9: 3146732458744236325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

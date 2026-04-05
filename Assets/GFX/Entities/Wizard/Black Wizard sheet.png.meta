@@ -1,0 +1,2158 @@
+fileFormatVersion: 2
+guid: 0b9b054ba8d3bca499b0ce1d31dffdb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8771773961480230554
+    second: Black Wizard sheet_0
+  - first:
+      213: -4838481265858088042
+    second: Black Wizard sheet_1
+  - first:
+      213: 2756017456641267228
+    second: Black Wizard sheet_2
+  - first:
+      213: 2221089255858507237
+    second: Black Wizard sheet_3
+  - first:
+      213: -1622300045093794094
+    second: Black Wizard sheet_4
+  - first:
+      213: 4391352784772071546
+    second: Black Wizard sheet_5
+  - first:
+      213: -7676959494469271357
+    second: Black Wizard sheet_6
+  - first:
+      213: -6825306400172248039
+    second: Black Wizard sheet_7
+  - first:
+      213: 8762940141122700524
+    second: Black Wizard sheet_8
+  - first:
+      213: 726974827189236180
+    second: Black Wizard sheet_9
+  - first:
+      213: 6241934898580772132
+    second: Black Wizard sheet_10
+  - first:
+      213: 4857524827384497103
+    second: Black Wizard sheet_11
+  - first:
+      213: -5120773833458732388
+    second: Black Wizard sheet_12
+  - first:
+      213: 840502585752531625
+    second: Black Wizard sheet_13
+  - first:
+      213: -6297499865437972766
+    second: Black Wizard sheet_14
+  - first:
+      213: 9071169652405292692
+    second: Black Wizard sheet_15
+  - first:
+      213: 4057544415564583942
+    second: Black Wizard sheet_16
+  - first:
+      213: -4891316210304085745
+    second: Black Wizard sheet_17
+  - first:
+      213: 3495327890136648023
+    second: Black Wizard sheet_18
+  - first:
+      213: 6362296587082266962
+    second: Black Wizard sheet_19
+  - first:
+      213: -8513547677437675099
+    second: Black Wizard sheet_20
+  - first:
+      213: -2264079801851395784
+    second: Black Wizard sheet_21
+  - first:
+      213: 8033880171190516293
+    second: Black Wizard sheet_22
+  - first:
+      213: -6961735454112410613
+    second: Black Wizard sheet_23
+  - first:
+      213: 2080468733662481557
+    second: Black Wizard sheet_24
+  - first:
+      213: 2029756783508554150
+    second: Black Wizard sheet_25
+  - first:
+      213: -4443741353798718613
+    second: Black Wizard sheet_26
+  - first:
+      213: -1950729105861398261
+    second: Black Wizard sheet_27
+  - first:
+      213: -2631436644993456079
+    second: Black Wizard sheet_28
+  - first:
+      213: 1238254360074520356
+    second: Black Wizard sheet_29
+  - first:
+      213: 7285879677327083033
+    second: Black Wizard sheet_30
+  - first:
+      213: -4718521934286345941
+    second: Black Wizard sheet_31
+  - first:
+      213: 4174904989290068112
+    second: Black Wizard sheet_32
+  - first:
+      213: -5814758582062419083
+    second: Black Wizard sheet_33
+  - first:
+      213: -2249703583477846343
+    second: Black Wizard sheet_34
+  - first:
+      213: 8392687764944048548
+    second: Black Wizard sheet_35
+  - first:
+      213: -3987863108900933898
+    second: Black Wizard sheet_36
+  - first:
+      213: 5018844429675602798
+    second: Black Wizard sheet_37
+  - first:
+      213: -3848961074391091730
+    second: Black Wizard sheet_38
+  - first:
+      213: -1054028663227710376
+    second: Black Wizard sheet_39
+  - first:
+      213: -8530343562303272620
+    second: Black Wizard sheet_40
+  - first:
+      213: -6718745081370986837
+    second: Black Wizard sheet_41
+  - first:
+      213: -7804763789618451195
+    second: Black Wizard sheet_42
+  - first:
+      213: 7692400236113903724
+    second: Black Wizard sheet_43
+  - first:
+      213: -3351899258288885361
+    second: Black Wizard sheet_44
+  - first:
+      213: -118394298861273226
+    second: Black Wizard sheet_45
+  - first:
+      213: 7119025022473452948
+    second: Black Wizard sheet_46
+  - first:
+      213: -5942910953593791163
+    second: Black Wizard sheet_47
+  - first:
+      213: -5493080523620080608
+    second: Black Wizard sheet_48
+  - first:
+      213: -3718541640937023292
+    second: Black Wizard sheet_49
+  - first:
+      213: 7614107008876318050
+    second: Black Wizard sheet_50
+  - first:
+      213: 4524591979352628713
+    second: Black Wizard sheet_51
+  - first:
+      213: -2914404377660438323
+    second: Black Wizard sheet_52
+  - first:
+      213: -1621580420406388242
+    second: Black Wizard sheet_53
+  - first:
+      213: -1124188908169096489
+    second: Black Wizard sheet_54
+  - first:
+      213: 5341510601878931462
+    second: Black Wizard sheet_55
+  - first:
+      213: 5191985546813708631
+    second: Black Wizard sheet_56
+  - first:
+      213: -4813477154194748842
+    second: Black Wizard sheet_57
+  - first:
+      213: -1109650923646337851
+    second: Black Wizard sheet_58
+  - first:
+      213: -3379227193993216361
+    second: Black Wizard sheet_59
+  - first:
+      213: -2726125851036916677
+    second: Black Wizard sheet_60
+  - first:
+      213: -6736433127441801887
+    second: Black Wizard sheet_61
+  - first:
+      213: -4724455248426186116
+    second: Black Wizard sheet_62
+  - first:
+      213: -687146839417960282
+    second: Black Wizard sheet_63
+  - first:
+      213: -5982343897300247021
+    second: Black Wizard sheet_64
+  - first:
+      213: 7255441657073110169
+    second: Black Wizard sheet_65
+  - first:
+      213: -8658142060949190485
+    second: Black Wizard sheet_66
+  - first:
+      213: -1717493280616254581
+    second: Black Wizard sheet_67
+  - first:
+      213: -1477687182377259190
+    second: Black Wizard sheet_68
+  - first:
+      213: 5106251261737518992
+    second: Black Wizard sheet_69
+  - first:
+      213: -516769794642795986
+    second: Black Wizard sheet_70
+  - first:
+      213: 3097868332075008656
+    second: Black Wizard sheet_71
+  - first:
+      213: -105274341233423657
+    second: Black Wizard sheet_72
+  - first:
+      213: -1534910546873171391
+    second: Black Wizard sheet_73
+  - first:
+      213: 6598093727666759714
+    second: Black Wizard sheet_74
+  - first:
+      213: -7143571139424452278
+    second: Black Wizard sheet_75
+  - first:
+      213: 6364092898401224090
+    second: Black Wizard sheet_76
+  - first:
+      213: 698395148617427369
+    second: Black Wizard sheet_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black Wizard sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 639
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96dc0071f99bb970800000000000000
+      internalID: 8771773961480230554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 639
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69375209ce24adcb0800000000000000
+      internalID: -4838481265858088042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 639
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16d0e956475f3620800000000000000
+      internalID: 2756017456641267228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 639
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed02ed09e4e2de10800000000000000
+      internalID: 2221089255858507237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 639
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de851d44be6c79e0800000000000000
+      internalID: -1622300045093794094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 639
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7003c3671831fc30800000000000000
+      internalID: 4391352784772071546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 575
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0c8199306f57590800000000000000
+      internalID: -7676959494469271357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9147886bdf3a741a0800000000000000
+      internalID: -6825306400172248039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 575
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce441ab51a73c9970800000000000000
+      internalID: 8762940141122700524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 575
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1f34fe0cbb61a00800000000000000
+      internalID: 726974827189236180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 575
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425550518becf9650800000000000000
+      internalID: 6241934898580772132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 575
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3c4ef1815696340800000000000000
+      internalID: 4857524827384497103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 511
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b399545b5fe8b0800000000000000
+      internalID: -5120773833458732388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 511
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2b39806a01aab00800000000000000
+      internalID: 840502585752531625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 511
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6df7bec39ca98a0800000000000000
+      internalID: -6297499865437972766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 511
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ecbecdcb443ed70800000000000000
+      internalID: 9071169652405292692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 511
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604d81ee52b4f4830800000000000000
+      internalID: 4057544415564583942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 511
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0117b072dd8e1cb0800000000000000
+      internalID: -4891316210304085745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 447
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7594c117236e18030800000000000000
+      internalID: 3495327890136648023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259f7bc790b6b4850800000000000000
+      internalID: 6362296587082266962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9b9fb7e7dc9d980800000000000000
+      internalID: -8513547677437675099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 449
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831c2837a6f5490e0800000000000000
+      internalID: -2264079801851395784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 447
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a7ddb43731e7f60800000000000000
+      internalID: 8033880171190516293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 447
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0413654d72f26f90800000000000000
+      internalID: -6961735454112410613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 383
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c424c5a4f4fdc10800000000000000
+      internalID: 2080468733662481557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 383
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1877d5a052b2c10800000000000000
+      internalID: 2029756783508554150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 383
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b2d1d58c8a452c0800000000000000
+      internalID: -4443741353798718613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 383
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01bd10b63e9de4e0800000000000000
+      internalID: -1950729105861398261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 383
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138283630524b7bd0800000000000000
+      internalID: -2631436644993456079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 383
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42702d9a7c92f2110800000000000000
+      internalID: 1238254360074520356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916815bd6f4ac1560800000000000000
+      internalID: 7285879677327083033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2929f1fc41748eb0800000000000000
+      internalID: -4718521934286345941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 319
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098f3a9d7fd30f930800000000000000
+      internalID: 4174904989290068112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 319
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573f385a0e3dd4fa0800000000000000
+      internalID: -5814758582062419083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 319
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be21e0a28277c0e0800000000000000
+      internalID: -2249703583477846343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 319
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1d14c4e01d87470800000000000000
+      internalID: 8392687764944048548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe231d81a348a8c0800000000000000
+      internalID: -3987863108900933898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6323c5fa6486a540800000000000000
+      internalID: 5018844429675602798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5fc96ab4eb59ac0800000000000000
+      internalID: -3848961074391091730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 255
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8548b39e3865f51f0800000000000000
+      internalID: -1054028663227710376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4598fdcc9b12e9980800000000000000
+      internalID: -8530343562303272620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 255
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6ba7822f832c2a0800000000000000
+      internalID: -6718745081370986837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 283
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50de5fb4fa8efa390800000000000000
+      internalID: -7804763789618451195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6043b73245e0ca60800000000000000
+      internalID: 7692400236113903724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81bbca3269ab71d0800000000000000
+      internalID: -3351899258288885361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 191
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f31f033016b5ef0800000000000000
+      internalID: -118394298861273226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49db5ab2a8bdbc260800000000000000
+      internalID: 7119025022473452948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d934f79f9868da0800000000000000
+      internalID: -5942910953593791163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 211
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024220b0e58a4c3b0800000000000000
+      internalID: -5493080523620080608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 224
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c853794416156cc0800000000000000
+      internalID: -3718541640937023292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 191
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d82e9bbfdbaa960800000000000000
+      internalID: 7614107008876318050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed15e2de649ace30800000000000000
+      internalID: 4524591979352628713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8c4b1e8a4fd87d0800000000000000
+      internalID: -2914404377660438323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 127
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9d2faf23dfe79e0800000000000000
+      internalID: -1621580420406388242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 113
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2952ce4241660f0800000000000000
+      internalID: -1124188908169096489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6080af4879bd02a40800000000000000
+      internalID: 5341510601878931462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 122
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7591bc4b853ad0840800000000000000
+      internalID: 5191985546813708631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 127
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a83c9f708133db0800000000000000
+      internalID: -4813477154194748842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc30673d5ab990f0800000000000000
+      internalID: -1109650923646337851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eb1be55c29a11d0800000000000000
+      internalID: -3379227193993216361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_60
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 101
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b346feb6bfada2ad0800000000000000
+      internalID: -2726125851036916677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_61
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 83
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d58a103c16382a0800000000000000
+      internalID: -6736433127441801887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac3589bfc5f6eb0800000000000000
+      internalID: -4724455248426186116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 78
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8c5f71793c676f0800000000000000
+      internalID: -687146839417960282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 84
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e5135dbe17afca0800000000000000
+      internalID: -5982343897300247021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_65
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 82
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c0a620fb180b460800000000000000
+      internalID: 7255441657073110169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_66
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 78
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8414a1ba918d780800000000000000
+      internalID: -8658142060949190485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b837fb006fc3a28e0800000000000000
+      internalID: -1717493280616254581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 63
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f614536533e7be0800000000000000
+      internalID: -1477687182377259190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09741cde77c0dd640800000000000000
+      internalID: 5106251261737518992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e222aa71c9014d8f0800000000000000
+      internalID: -516769794642795986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0924346b5d6ddfa20800000000000000
+      internalID: 3097868332075008656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_72
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da81de5b8df98ef0800000000000000
+      internalID: -105274341233423657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_73
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142cf9b6df6e2bae0800000000000000
+      internalID: -1534910546873171391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_74
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2286f408943219b50800000000000000
+      internalID: 6598093727666759714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_75
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418fde95efecdc90800000000000000
+      internalID: -7143571139424452278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_76
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a958acec5ccc15850800000000000000
+      internalID: 6364092898401224090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Wizard sheet_77
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9a23affa231b900800000000000000
+      internalID: 698395148617427369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black Wizard sheet_0: 8771773961480230554
+      Black Wizard sheet_1: -4838481265858088042
+      Black Wizard sheet_10: 6241934898580772132
+      Black Wizard sheet_11: 4857524827384497103
+      Black Wizard sheet_12: -5120773833458732388
+      Black Wizard sheet_13: 840502585752531625
+      Black Wizard sheet_14: -6297499865437972766
+      Black Wizard sheet_15: 9071169652405292692
+      Black Wizard sheet_16: 4057544415564583942
+      Black Wizard sheet_17: -4891316210304085745
+      Black Wizard sheet_18: 3495327890136648023
+      Black Wizard sheet_19: 6362296587082266962
+      Black Wizard sheet_2: 2756017456641267228
+      Black Wizard sheet_20: -8513547677437675099
+      Black Wizard sheet_21: -2264079801851395784
+      Black Wizard sheet_22: 8033880171190516293
+      Black Wizard sheet_23: -6961735454112410613
+      Black Wizard sheet_24: 2080468733662481557
+      Black Wizard sheet_25: 2029756783508554150
+      Black Wizard sheet_26: -4443741353798718613
+      Black Wizard sheet_27: -1950729105861398261
+      Black Wizard sheet_28: -2631436644993456079
+      Black Wizard sheet_29: 1238254360074520356
+      Black Wizard sheet_3: 2221089255858507237
+      Black Wizard sheet_30: 7285879677327083033
+      Black Wizard sheet_31: -4718521934286345941
+      Black Wizard sheet_32: 4174904989290068112
+      Black Wizard sheet_33: -5814758582062419083
+      Black Wizard sheet_34: -2249703583477846343
+      Black Wizard sheet_35: 8392687764944048548
+      Black Wizard sheet_36: -3987863108900933898
+      Black Wizard sheet_37: 5018844429675602798
+      Black Wizard sheet_38: -3848961074391091730
+      Black Wizard sheet_39: -1054028663227710376
+      Black Wizard sheet_4: -1622300045093794094
+      Black Wizard sheet_40: -8530343562303272620
+      Black Wizard sheet_41: -6718745081370986837
+      Black Wizard sheet_42: -7804763789618451195
+      Black Wizard sheet_43: 7692400236113903724
+      Black Wizard sheet_44: -3351899258288885361
+      Black Wizard sheet_45: -118394298861273226
+      Black Wizard sheet_46: 7119025022473452948
+      Black Wizard sheet_47: -5942910953593791163
+      Black Wizard sheet_48: -5493080523620080608
+      Black Wizard sheet_49: -3718541640937023292
+      Black Wizard sheet_5: 4391352784772071546
+      Black Wizard sheet_50: 7614107008876318050
+      Black Wizard sheet_51: 4524591979352628713
+      Black Wizard sheet_52: -2914404377660438323
+      Black Wizard sheet_53: -1621580420406388242
+      Black Wizard sheet_54: -1124188908169096489
+      Black Wizard sheet_55: 5341510601878931462
+      Black Wizard sheet_56: 5191985546813708631
+      Black Wizard sheet_57: -4813477154194748842
+      Black Wizard sheet_58: -1109650923646337851
+      Black Wizard sheet_59: -3379227193993216361
+      Black Wizard sheet_6: -7676959494469271357
+      Black Wizard sheet_60: -2726125851036916677
+      Black Wizard sheet_61: -6736433127441801887
+      Black Wizard sheet_62: -4724455248426186116
+      Black Wizard sheet_63: -687146839417960282
+      Black Wizard sheet_64: -5982343897300247021
+      Black Wizard sheet_65: 7255441657073110169
+      Black Wizard sheet_66: -8658142060949190485
+      Black Wizard sheet_67: -1717493280616254581
+      Black Wizard sheet_68: -1477687182377259190
+      Black Wizard sheet_69: 5106251261737518992
+      Black Wizard sheet_7: -6825306400172248039
+      Black Wizard sheet_70: -516769794642795986
+      Black Wizard sheet_71: 3097868332075008656
+      Black Wizard sheet_72: -105274341233423657
+      Black Wizard sheet_73: -1534910546873171391
+      Black Wizard sheet_74: 6598093727666759714
+      Black Wizard sheet_75: -7143571139424452278
+      Black Wizard sheet_76: 6364092898401224090
+      Black Wizard sheet_77: 698395148617427369
+      Black Wizard sheet_8: 8762940141122700524
+      Black Wizard sheet_9: 726974827189236180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

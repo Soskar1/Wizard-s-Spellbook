@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: a4c84430ff84a0a4f9e181ec8682ce79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2303635905812313988
+    second: Lamia sheet_0
+  - first:
+      213: -139679390963582846
+    second: Lamia sheet_1
+  - first:
+      213: -2994987094590523044
+    second: Lamia sheet_2
+  - first:
+      213: -5335094241891306911
+    second: Lamia sheet_3
+  - first:
+      213: 6550373041429924349
+    second: Lamia sheet_4
+  - first:
+      213: -6901877837212017186
+    second: Lamia sheet_5
+  - first:
+      213: -3946228840248683267
+    second: Lamia sheet_6
+  - first:
+      213: -1844844465881034283
+    second: Lamia sheet_7
+  - first:
+      213: -2826680215064539795
+    second: Lamia sheet_8
+  - first:
+      213: -3189521545722394782
+    second: Lamia sheet_9
+  - first:
+      213: -4835865008617383125
+    second: Lamia sheet_10
+  - first:
+      213: -7068473334499458359
+    second: Lamia sheet_11
+  - first:
+      213: 3147897211058741482
+    second: Lamia sheet_12
+  - first:
+      213: -2483631845065070449
+    second: Lamia sheet_13
+  - first:
+      213: -8010359164004099598
+    second: Lamia sheet_14
+  - first:
+      213: -4547029148674038435
+    second: Lamia sheet_15
+  - first:
+      213: 6633900637140561629
+    second: Lamia sheet_16
+  - first:
+      213: 846905218310249774
+    second: Lamia sheet_17
+  - first:
+      213: -4861751746083512511
+    second: Lamia sheet_18
+  - first:
+      213: 9203992361764423116
+    second: Lamia sheet_19
+  - first:
+      213: 2663754204373165953
+    second: Lamia sheet_20
+  - first:
+      213: -1018852720240018668
+    second: Lamia sheet_21
+  - first:
+      213: 7048862113298781918
+    second: Lamia sheet_22
+  - first:
+      213: 5603484677469989901
+    second: Lamia sheet_23
+  - first:
+      213: 2373885639271988508
+    second: Lamia sheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lamia sheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 191
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48737c1b6a828ff10800000000000000
+      internalID: 2303635905812313988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 191
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2883c2f7552cf0ef0800000000000000
+      internalID: -139679390963582846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 191
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c597d080b1baf66d0800000000000000
+      internalID: -2994987094590523044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 191
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16236d4bd00f5f5b0800000000000000
+      internalID: -5335094241891306911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 191
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9c9b8639997ea50800000000000000
+      internalID: 6550373041429924349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 127
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd16ddbcaa9730a0800000000000000
+      internalID: -6901877837212017186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 127
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4539e17cd2c39c0800000000000000
+      internalID: -3946228840248683267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 127
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1d0519bbbc566e0800000000000000
+      internalID: -1844844465881034283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 127
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d047f125d95c8d0800000000000000
+      internalID: -2826680215064539795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 127
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26703cf8d0b8cb3d0800000000000000
+      internalID: -3189521545722394782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 127
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b9e9b656e83ecb0800000000000000
+      internalID: -4835865008617383125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 127
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2c6d0e3fcb7ed90800000000000000
+      internalID: -7068473334499458359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 127
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0699ec5d39fab20800000000000000
+      internalID: 3147897211058741482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 63
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f886c0aeefd588dd0800000000000000
+      internalID: -2483631845065070449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f99d32f7cc75d090800000000000000
+      internalID: -8010359164004099598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55efe99415b5e0c0800000000000000
+      internalID: -4547029148674038435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 63
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde20084b79501c50800000000000000
+      internalID: 6633900637140561629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 63
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d9ec71fcfc0cb00800000000000000
+      internalID: 846905218310249774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 63
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f9e8cab86978cb0800000000000000
+      internalID: -4861751746083512511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc58066c9462bbf70800000000000000
+      internalID: 9203992361764423116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187ad90f55e87f420800000000000000
+      internalID: 2663754204373165953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b37ab59de4cd1f0800000000000000
+      internalID: -1018852720240018668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed612eddeb692d160800000000000000
+      internalID: 7048862113298781918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c61f820a393cd40800000000000000
+      internalID: 5603484677469989901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamia sheet_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d353a596cb1f020800000000000000
+      internalID: 2373885639271988508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lamia sheet_0: 2303635905812313988
+      Lamia sheet_1: -139679390963582846
+      Lamia sheet_10: -4835865008617383125
+      Lamia sheet_11: -7068473334499458359
+      Lamia sheet_12: 3147897211058741482
+      Lamia sheet_13: -2483631845065070449
+      Lamia sheet_14: -8010359164004099598
+      Lamia sheet_15: -4547029148674038435
+      Lamia sheet_16: 6633900637140561629
+      Lamia sheet_17: 846905218310249774
+      Lamia sheet_18: -4861751746083512511
+      Lamia sheet_19: 9203992361764423116
+      Lamia sheet_2: -2994987094590523044
+      Lamia sheet_20: 2663754204373165953
+      Lamia sheet_21: -1018852720240018668
+      Lamia sheet_22: 7048862113298781918
+      Lamia sheet_23: 5603484677469989901
+      Lamia sheet_24: 2373885639271988508
+      Lamia sheet_3: -5335094241891306911
+      Lamia sheet_4: 6550373041429924349
+      Lamia sheet_5: -6901877837212017186
+      Lamia sheet_6: -3946228840248683267
+      Lamia sheet_7: -1844844465881034283
+      Lamia sheet_8: -2826680215064539795
+      Lamia sheet_9: -3189521545722394782
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
