@@ -8,28 +8,24 @@ namespace WizardsSpellbook.Core.Application.Letters
         private readonly AlphabetInventory _alphabetInventory;
         private readonly Random _random;
 
-        public event EventHandler<LetterPage> OnPageFilled;
-
         public LetterGenerator(AlphabetInventory alphabetInventory, Random random)
         {
             _alphabetInventory = alphabetInventory;
             _random = random;
         }
 
-        public void FillPage(LetterPage letterPage)
+        public void FillBook(Book book)
         {
-            for (var i = 0; i < letterPage.PageSize; ++i)
+            for (var i = 0; i < book.MaxSize; ++i)
             {
-                var letter = letterPage.GetLetter(i);
+                var letter = book.GetLetter(i);
 
                 if (letter == null)
                 {
                     letter = GenerateLetter();
-                    letterPage.SetLetter(i, letter);
+                    book.SetLetter(i, letter);
                 }
             }
-
-            OnPageFilled?.Invoke(this, letterPage);
         }
 
         private Letter GenerateLetter()

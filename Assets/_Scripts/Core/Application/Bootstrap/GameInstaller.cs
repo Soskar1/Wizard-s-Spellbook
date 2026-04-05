@@ -6,7 +6,7 @@ using WizardsSpellbook.Core.Domain.GameConfig;
 using WizardsSpellbook.Core.Domain.Letters;
 using Resolution = Reflex.Enums.Resolution;
 
-namespace WizardsSpellbook.Core.Application.DIContainer
+namespace WizardsSpellbook.Core.Application.Bootstrap
 {
     public class GameInstaller : MonoBehaviour, IInstaller
     {
@@ -17,7 +17,7 @@ namespace WizardsSpellbook.Core.Application.DIContainer
             containerBuilder.RegisterFactory(container => new GameConfiguration(_configuration), Lifetime.Singleton, Resolution.Eager);
             containerBuilder.RegisterFactory(container => new System.Random(), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(AlphabetInventory), Lifetime.Singleton, Resolution.Lazy);
-            containerBuilder.RegisterType(typeof(LetterPage), Lifetime.Singleton, Resolution.Lazy);
+            containerBuilder.RegisterType(typeof(Book), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(LetterGenerator), Lifetime.Singleton, Resolution.Lazy);
         }
     }

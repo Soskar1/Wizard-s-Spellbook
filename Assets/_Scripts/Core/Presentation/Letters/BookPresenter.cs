@@ -1,57 +1,48 @@
+using System;
 using Reflex.Attributes;
 using UnityEngine;
-using WizardsSpellbook.Core.Application.Letters;
-using WizardsSpellbook.Core.Domain.GameConfig;
 using WizardsSpellbook.Core.Domain.Letters;
 
 namespace WizardsSpellbook.Core.Presentation.Letters
 {
-    public class BookPresenter : MonoBehaviour
+    public class BookPresenter : MonoBehaviour, IDisposable
     {
         [SerializeField] private LetterPresenter _letterPresenterPrefab;
         [SerializeField] private Transform _leftPageLetterContainer;
         [SerializeField] private Transform _rightPageLetterContainer;
 
-        private Transform[] _letterPlaceholders;
-        private LetterGenerator _letterGenerator;
+        private LetterPresenter[] _letterPresenters;
+        private Book _book;
+
+        private int _maxPresentersInLeftPage;
 
         [Inject]
-        public void Inject(LetterGenerator letterGenerator, GameConfiguration configuration)
+        public void Inject(Book book)
         {
-            _letterGenerator = letterGenerator;
-            _letterPlaceholders = new Transform[configuration.LettersInBook];
-            GeneratePlaceholders();
+            _book = book;
+            _letterPresenters = new LetterPresenter[_book.MaxSize];
+            _maxPresentersInLeftPage = _book.MaxSize / 2;
         }
 
-        private void GeneratePlaceholders()
+        public void OnEnable()
         {
-            var maxPlaceholdersInLeftPage = _letterPlaceholders.Length / 2;
-
-            for (int i = 0; i < _letterPlaceholders.Length; i++)
-            {
-                Transform placeholder;
-                if (i < maxPlaceholdersInLeftPage)
-                    placeholder = Instantiate(_letterPresenterPrefab, _leftPageLetterContainer).transform;
-                else
-                    placeholder = Instantiate(_letterPresenterPrefab, _rightPageLetterContainer).transform;
-                
-                _letterPlaceholders[i] = placeholder;
-            }
+            _book.OnLetterSetEventArgs += HandleOnLetterSetEventArgs;
         }
 
-        private void OnEnable()
+        public void OnDisable() => Dispose();
+
+        private void HandleOnLetterSetEventArgs(object _, LetterSetEventArgs args)
         {
-            _letterGenerator.OnPageFilled += HandlePageFilled;
+            var page = args.Index < _maxPresentersInLeftPage ? _leftPageLetterContainer : _rightPageLetterContainer;
+            var presenter = Instantiate(_letterPresenterPrefab, page);
+
+            presenter.Initialize(args.Letter);
+            _letterPresenters[args.Index] = presenter;
         }
 
-        private void OnDisable()
+        public void Dispose()
         {
-            _letterGenerator.OnPageFilled -= HandlePageFilled;
-        }
-
-        private void HandlePageFilled(object _, LetterPage letterPage)
-        {
-            
+            _book.OnLetterSetEventArgs -= HandleOnLetterSetEventArgs;
         }
     }
 }
