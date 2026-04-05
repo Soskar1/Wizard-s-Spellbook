@@ -46,8 +46,7 @@ namespace WizardsSpellbook.Core.Presentation.Letters
         {
             var placeholder = _letterPlaceholders[args.Index];
             var presenter = _letterPool.GetPresenter(args.Letter);
-            presenter.transform.SetParent(placeholder);
-            presenter.transform.localScale = placeholder.localScale;
+            presenter.transform.SetParent(placeholder, false);
             presenter.transform.position = placeholder.position;
         }
 
