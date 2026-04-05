@@ -18,6 +18,11 @@ namespace WizardsSpellbook.Core.Application.Words
             _removedLetterPositions = new Dictionary<Letter, int>();
         }
 
+        public void Clear()
+        {
+            _removedLetterPositions.Clear();
+        }
+
         public void MoveLetter(Letter letter)
         {
             if (_word.Contains(letter))
