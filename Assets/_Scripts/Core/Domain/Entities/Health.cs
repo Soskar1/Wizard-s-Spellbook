@@ -17,7 +17,7 @@ namespace WizardsSpellbook.Core.Domain.Entities
         {
             CurrentHealth -= amount;
 
-            var args = new HealthChangedEventArgs(amount);
+            var args = new HealthChangedEventArgs(CurrentHealth);
             HealthChanged?.Invoke(this, args);
 
             return CurrentHealth;

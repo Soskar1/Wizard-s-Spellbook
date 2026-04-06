@@ -32,11 +32,9 @@ namespace WizardsSpellbook.Core.Application.Battles
             {
                 var turnResult = await _currentTurnProcessor.StartTurn();
                 battleIsEnded = battle.ProcessTurnResult(turnResult);
-                Debug.Log($"{turnResult.BattleSide} done {turnResult.Damage} damage");
 
                 if (battleIsEnded)
                 {
-                    Debug.Log("Battle ended");
                     break;
                 }
 
