@@ -1,15 +1,15 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using System;
+using System.Collections.Generic;
 
 namespace WizardsSpellbook.Core.Domain.Words
 {
     public class WordDictionary
     {
-        private ISet<string> _words;
+        private readonly HashSet<string> _words;
 
-        public WordDictionary(ISet<string> words)
+        public WordDictionary(IEnumerable<string> words)
         {
-            _words = words.Select(word => word.ToUpperInvariant()).ToHashSet();
+            _words = new HashSet<string>(words, StringComparer.OrdinalIgnoreCase);
         }
 
         public bool FindWord(string word) => _words.Contains(word);

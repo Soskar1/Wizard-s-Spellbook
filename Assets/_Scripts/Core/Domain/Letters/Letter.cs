@@ -4,6 +4,6 @@
     {
         public char Character { get; private set; }
 
-        public Letter(char character) => Character = char.ToUpperInvariant(character);
+        public Letter(char character) => Character = character;
     }
 }

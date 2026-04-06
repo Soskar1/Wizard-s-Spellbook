@@ -33,7 +33,7 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
             containerBuilder.RegisterType(typeof(LetterGenerator), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(BookFill), Lifetime.Singleton, Resolution.Lazy);
             
-            containerBuilder.RegisterFactory(container => new WordDictionary(_validWords.ToHashSet()), Lifetime.Singleton, Resolution.Lazy);
+            containerBuilder.RegisterFactory(container => new WordDictionary(_validWords), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(Word), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(WordBuilder), Lifetime.Singleton, Resolution.Lazy);
 
