@@ -30,16 +30,21 @@ namespace WizardsSpellbook.Core.Presentation.Entities
 
         private void HandleHealthChanged(object _, HealthChangedEventArgs args)
         {
-            var fullContainers = args.Health / 2;
+            var fullContainers = args.Health / _healthPerContainer;
+
+            for (var index = 0; index < fullContainers; ++index)
+            {
+                _heartContainers[index].SetFullHeart();
+            }
 
             for (var index = fullContainers; index < _heartContainers.Length; ++index)
             {
-                _heartContainers[fullContainers].SetEmptyHeart();
+                _heartContainers[index].SetEmptyHeart();
             }
 
             if (args.Health % _healthPerContainer != 0)
             {
-                _heartContainers[_healthPerContainer + 1].SetHalfHeart();
+                _heartContainers[fullContainers].SetHalfHeart();
             }
         }
     }

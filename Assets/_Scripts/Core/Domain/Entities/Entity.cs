@@ -9,9 +9,9 @@
             Health = new Health(entityData.StartHealth);
         }
 
-        public void TakeDamage(int damage)
+        public int TakeDamage(int damage)
         {
-            Health.Reduce(damage);
+            return Health.Reduce(damage);
         }
     }
 }

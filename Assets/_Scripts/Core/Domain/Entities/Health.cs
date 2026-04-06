@@ -13,12 +13,14 @@ namespace WizardsSpellbook.Core.Domain.Entities
             CurrentHealth = startHealth;
         }
 
-        public void Reduce(int amount)
+        public int Reduce(int amount)
         {
             CurrentHealth -= amount;
 
             var args = new HealthChangedEventArgs(amount);
             HealthChanged?.Invoke(this, args);
+
+            return CurrentHealth;
         }
     }
 }

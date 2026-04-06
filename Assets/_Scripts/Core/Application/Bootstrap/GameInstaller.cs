@@ -3,6 +3,7 @@ using System.Linq;
 using Reflex.Core;
 using Reflex.Enums;
 using UnityEngine;
+using WizardsSpellbook.Core.Application.Battles;
 using WizardsSpellbook.Core.Application.Entities;
 using WizardsSpellbook.Core.Application.Letters;
 using WizardsSpellbook.Core.Application.Words;
@@ -36,6 +37,10 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
             containerBuilder.RegisterType(typeof(WordBuilder), Lifetime.Singleton, Resolution.Lazy);
 
             containerBuilder.RegisterType(typeof(EntityFactory), Lifetime.Singleton, Resolution.Lazy);
+
+            containerBuilder.RegisterType(typeof(AiTurnProcessor), Lifetime.Singleton, Resolution.Lazy);
+            containerBuilder.RegisterType(typeof(PlayerTurnProcessor), Lifetime.Singleton, Resolution.Lazy);
+            containerBuilder.RegisterType(typeof(BattleProcessor), Lifetime.Singleton, Resolution.Lazy);
         }
     }
 }

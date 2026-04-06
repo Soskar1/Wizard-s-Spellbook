@@ -23,6 +23,8 @@ namespace WizardsSpellbook.Core.Application.Words
             _removedLetterPositions.Clear();
         }
 
+        public Word GetWord() => _word;
+
         public void MoveLetter(Letter letter)
         {
             if (_word.Contains(letter))

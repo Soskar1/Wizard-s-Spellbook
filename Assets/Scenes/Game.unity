@@ -261,7 +261,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2892849320277579315, guid: 968cbdf5b9ad7224596814a1798f25d4, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.000061035156
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2892849320277579315, guid: 968cbdf5b9ad7224596814a1798f25d4, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1088,7 +1088,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2892849320277579315, guid: 968cbdf5b9ad7224596814a1798f25d4, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.000061035156
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2892849320277579315, guid: 968cbdf5b9ad7224596814a1798f25d4, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1274,7 +1274,7 @@ GameObject:
   - component: {fileID: 1962557425}
   - component: {fileID: 1962557426}
   m_Layer: 5
-  m_Name: Word
+  m_Name: WordPresenter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1311,7 +1311,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1dbfb6ec5816096439fd37669c185923, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _attackButton: {fileID: 1553607271}
+  _attackButton: {fileID: 1553607274}
 --- !u!114 &1962557426
 MonoBehaviour:
   m_ObjectHideFlags: 0

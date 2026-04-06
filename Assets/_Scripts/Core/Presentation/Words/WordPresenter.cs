@@ -1,14 +1,14 @@
 ﻿using Reflex.Attributes;
 using UnityEngine;
-using UnityEngine.UI;
 using WizardsSpellbook.Core.Domain.Words;
+using WizardsSpellbook.Core.Presentation.Battles;
 using WizardsSpellbook.Core.Presentation.Letters;
 
 namespace WizardsSpellbook.Core.Presentation.Words
 {
     public class WordPresenter : MonoBehaviour
     {
-        [SerializeField] private Button _attackButton;
+        [SerializeField] private AttackButton _attackButton;
 
         private Word _word;
         private LetterPool _letterPool;
@@ -38,7 +38,7 @@ namespace WizardsSpellbook.Core.Presentation.Words
                 presenter.transform.SetParent(transform);
             }
 
-            _attackButton.interactable = args.WordIsValid;
+            _attackButton.SetActive(args.WordIsValid);
         }
     }
 }
