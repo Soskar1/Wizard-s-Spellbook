@@ -6,13 +6,13 @@ namespace WizardsSpellbook.Core.Domain.Words
     public class WordChangedEventArgs : EventArgs
     {
         public WordOperationType OperationType { get; }
-        public Letter Letter { get; }
+        public Letter[] Letters { get; }
         public bool WordIsValid { get; }
 
-        public WordChangedEventArgs(WordOperationType operationType, Letter letter, bool wordIsValid)
+        public WordChangedEventArgs(WordOperationType operationType, Letter[] letters, bool wordIsValid)
         {
             OperationType = operationType;
-            Letter = letter;
+            Letters = letters;
             WordIsValid = wordIsValid;
         }
     }

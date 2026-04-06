@@ -27,7 +27,7 @@ namespace WizardsSpellbook.Core.Domain.Words
 
             var wordIsValid = ValidateWord();
 
-            var args = new WordChangedEventArgs(WordOperationType.AddedLetter, letter, wordIsValid);
+            var args = new WordChangedEventArgs(WordOperationType.AddedLetter, new Letter[] {letter}, wordIsValid);
             WordChanged?.Invoke(this, args);
         }
         
@@ -48,7 +48,18 @@ namespace WizardsSpellbook.Core.Domain.Words
 
             var wordIsValid = ValidateWord();
 
-            var args = new WordChangedEventArgs(WordOperationType.RemovedLetter, letter, wordIsValid);
+            var args = new WordChangedEventArgs(WordOperationType.RemovedLetter, new Letter[] {letter}, wordIsValid);
+            WordChanged?.Invoke(this, args);
+        }
+
+        public void Clear()
+        {
+            var letters = _letters.ToArray();
+
+            _letters.Clear();
+            _currentWordRepresentation.Clear();
+
+            var args = new WordChangedEventArgs(WordOperationType.Clear, letters, false);
             WordChanged?.Invoke(this, args);
         }
 

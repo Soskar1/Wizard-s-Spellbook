@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using UnityEngine;
 using WizardsSpellbook.Core.Domain.Letters;
 
 namespace WizardsSpellbook.Core.Presentation.Letters
@@ -16,7 +17,11 @@ namespace WizardsSpellbook.Core.Presentation.Letters
 
         public void Remove(Letter letter)
         {
-            _letterPool.Remove(letter);
+            if (_letterPool.TryGetValue(letter, out var presenter))
+            {
+                _letterPool.Remove(letter);
+                GameObject.Destroy(presenter.gameObject);
+            }
         }
 
         public LetterPresenter GetPresenter(Letter letter)

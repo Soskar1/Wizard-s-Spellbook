@@ -3,6 +3,7 @@
     public enum WordOperationType
     {
         AddedLetter,
-        RemovedLetter
+        RemovedLetter,
+        Clear
     }
 }

@@ -34,8 +34,15 @@ namespace WizardsSpellbook.Core.Presentation.Words
         {
             if (args.OperationType == WordOperationType.AddedLetter)
             {
-                var presenter = _letterPool.GetPresenter(args.Letter);
+                var presenter = _letterPool.GetPresenter(args.Letters[0]);
                 presenter.transform.SetParent(transform);
+            }
+            else if (args.OperationType == WordOperationType.Clear)
+            {
+                foreach (var letter in args.Letters)
+                {
+                    _letterPool.Remove(letter);
+                }
             }
 
             _attackButton.SetActive(args.WordIsValid);

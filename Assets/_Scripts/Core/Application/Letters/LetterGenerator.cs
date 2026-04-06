@@ -14,21 +14,7 @@ namespace WizardsSpellbook.Core.Application.Letters
             _random = random;
         }
 
-        public void FillBook(Book book)
-        {
-            for (var i = 0; i < book.MaxSize; ++i)
-            {
-                var letter = book.GetLetter(i);
-
-                if (letter == null)
-                {
-                    letter = GenerateLetter();
-                    book.SetLetter(i, letter);
-                }
-            }
-        }
-
-        private Letter GenerateLetter()
+        public Letter GenerateLetter()
         {
             var letterIndex = _random.Next(_alphabetInventory.Size);
             return _alphabetInventory.GetLetter(letterIndex);

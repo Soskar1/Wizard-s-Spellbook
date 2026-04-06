@@ -21,6 +21,7 @@ namespace WizardsSpellbook.Core.Application.Words
         public void Clear()
         {
             _removedLetterPositions.Clear();
+            _word.Clear();
         }
 
         public Word GetWord() => _word;
