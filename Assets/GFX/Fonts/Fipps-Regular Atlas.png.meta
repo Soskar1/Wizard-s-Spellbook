@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: 924870f042c4e9846b7c393a9ba8cab4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5713732173331257795
+    second: Fipps-Regular Atlas_0
+  - first:
+      213: 1073213342133906440
+    second: Fipps-Regular Atlas_1
+  - first:
+      213: -6940693732512583549
+    second: Fipps-Regular Atlas_2
+  - first:
+      213: -5780429399281446750
+    second: Fipps-Regular Atlas_3
+  - first:
+      213: -4879745728489979519
+    second: Fipps-Regular Atlas_4
+  - first:
+      213: -1439455427200814623
+    second: Fipps-Regular Atlas_5
+  - first:
+      213: -606276803587114317
+    second: Fipps-Regular Atlas_6
+  - first:
+      213: -893752724999587092
+    second: Fipps-Regular Atlas_7
+  - first:
+      213: -1976570660787385131
+    second: Fipps-Regular Atlas_8
+  - first:
+      213: 3037525543472972210
+    second: Fipps-Regular Atlas_9
+  - first:
+      213: -9223071545961673365
+    second: Fipps-Regular Atlas_10
+  - first:
+      213: -4807293489913892787
+    second: Fipps-Regular Atlas_11
+  - first:
+      213: 2736474913096473537
+    second: Fipps-Regular Atlas_12
+  - first:
+      213: 4573468393615787195
+    second: Fipps-Regular Atlas_13
+  - first:
+      213: -8306524328549569887
+    second: Fipps-Regular Atlas_14
+  - first:
+      213: 2171070351407148415
+    second: Fipps-Regular Atlas_15
+  - first:
+      213: 7823177327870881544
+    second: Fipps-Regular Atlas_16
+  - first:
+      213: 7793946997834953288
+    second: Fipps-Regular Atlas_17
+  - first:
+      213: -6840123885154723413
+    second: Fipps-Regular Atlas_18
+  - first:
+      213: 2748976842425417322
+    second: Fipps-Regular Atlas_19
+  - first:
+      213: 2032978377124561418
+    second: Fipps-Regular Atlas_20
+  - first:
+      213: 7521359936960946729
+    second: Fipps-Regular Atlas_21
+  - first:
+      213: 8821688460437350434
+    second: Fipps-Regular Atlas_22
+  - first:
+      213: -8267382355251508707
+    second: Fipps-Regular Atlas_23
+  - first:
+      213: 4987963951910760484
+    second: Fipps-Regular Atlas_24
+  - first:
+      213: 4671123162450098981
+    second: Fipps-Regular Atlas_25
+  - first:
+      213: 6047083802582583655
+    second: Fipps-Regular Atlas_26
+  - first:
+      213: -576894452594107848
+    second: Fipps-Regular Atlas_27
+  - first:
+      213: -997736537949368426
+    second: Fipps-Regular Atlas_28
+  - first:
+      213: -3577713290665447122
+    second: Fipps-Regular Atlas_29
+  - first:
+      213: 1155044965210778486
+    second: Fipps-Regular Atlas_30
+  - first:
+      213: -2028122105930870670
+    second: Fipps-Regular Atlas_31
+  - first:
+      213: -1684739985424145193
+    second: Fipps-Regular Atlas_32
+  - first:
+      213: -1115452821244059465
+    second: Fipps-Regular Atlas_33
+  - first:
+      213: -5846822664178841211
+    second: Fipps-Regular Atlas_34
+  - first:
+      213: 6089959174051563953
+    second: Fipps-Regular Atlas_35
+  - first:
+      213: -3617250899264672506
+    second: Fipps-Regular Atlas_36
+  - first:
+      213: 6395991547510502460
+    second: Fipps-Regular Atlas_37
+  - first:
+      213: 1712764519893127604
+    second: Fipps-Regular Atlas_38
+  - first:
+      213: 7711858272961324184
+    second: Fipps-Regular Atlas_39
+  - first:
+      213: -2988599512354597838
+    second: Fipps-Regular Atlas_40
+  - first:
+      213: 1089147111914550027
+    second: Fipps-Regular Atlas_41
+  - first:
+      213: -769163628813409584
+    second: Fipps-Regular Atlas_42
+  - first:
+      213: 1415577995195174820
+    second: Fipps-Regular Atlas_43
+  - first:
+      213: 386699179588490756
+    second: Fipps-Regular Atlas_44
+  - first:
+      213: 3761589110003131512
+    second: Fipps-Regular Atlas_45
+  - first:
+      213: 201942211434445101
+    second: Fipps-Regular Atlas_46
+  - first:
+      213: 9146064477701119072
+    second: Fipps-Regular Atlas_47
+  - first:
+      213: 1831274601524621792
+    second: Fipps-Regular Atlas_48
+  - first:
+      213: -2837273719605903107
+    second: Fipps-Regular Atlas_49
+  - first:
+      213: 2096474472091009483
+    second: Fipps-Regular Atlas_50
+  - first:
+      213: 3690151887060602220
+    second: Fipps-Regular Atlas_51
+  - first:
+      213: -4350240215191275824
+    second: Fipps-Regular Atlas_52
+  - first:
+      213: -1738385363249781303
+    second: Fipps-Regular Atlas_53
+  - first:
+      213: -1086647702976816713
+    second: Fipps-Regular Atlas_54
+  - first:
+      213: -1273757875023483042
+    second: Fipps-Regular Atlas_55
+  - first:
+      213: 2497770403721984227
+    second: Fipps-Regular Atlas_56
+  - first:
+      213: 3073503797351433678
+    second: Fipps-Regular Atlas_57
+  - first:
+      213: 3714960987351286776
+    second: Fipps-Regular Atlas_58
+  - first:
+      213: 5704277102492317562
+    second: Fipps-Regular Atlas_59
+  - first:
+      213: -5853455937495923159
+    second: Fipps-Regular Atlas_60
+  - first:
+      213: -7075280094538258590
+    second: Fipps-Regular Atlas_61
+  - first:
+      213: 5486004315854967245
+    second: Fipps-Regular Atlas_62
+  - first:
+      213: -2338376227975007153
+    second: Fipps-Regular Atlas_63
+  - first:
+      213: -3091662548023487898
+    second: Fipps-Regular Atlas_64
+  - first:
+      213: 2272546570054531930
+    second: Fipps-Regular Atlas_65
+  - first:
+      213: -4971486016061636349
+    second: Fipps-Regular Atlas_66
+  - first:
+      213: -967496106357099784
+    second: Fipps-Regular Atlas_67
+  - first:
+      213: -8082032262802243346
+    second: Fipps-Regular Atlas_68
+  - first:
+      213: 8911500360315808973
+    second: Fipps-Regular Atlas_69
+  - first:
+      213: -682915403849366558
+    second: Fipps-Regular Atlas_70
+  - first:
+      213: -7414999139561738190
+    second: Fipps-Regular Atlas_71
+  - first:
+      213: 3945685887651797597
+    second: Fipps-Regular Atlas_72
+  - first:
+      213: 8300200658136872433
+    second: Fipps-Regular Atlas_73
+  - first:
+      213: -8912576423684408410
+    second: Fipps-Regular Atlas_74
+  - first:
+      213: 1725373773505327776
+    second: Fipps-Regular Atlas_75
+  - first:
+      213: 4710133995545644050
+    second: Fipps-Regular Atlas_76
+  - first:
+      213: 8372535170574199306
+    second: Fipps-Regular Atlas_77
+  - first:
+      213: -3010638505209505721
+    second: Fipps-Regular Atlas_78
+  - first:
+      213: 9126941551759740693
+    second: Fipps-Regular Atlas_79
+  - first:
+      213: 8541689131562296594
+    second: Fipps-Regular Atlas_80
+  - first:
+      213: -1923773701394189270
+    second: Fipps-Regular Atlas_81
+  - first:
+      213: 2648004952989695929
+    second: Fipps-Regular Atlas_82
+  - first:
+      213: 7116326034955221527
+    second: Fipps-Regular Atlas_83
+  - first:
+      213: 3293221451433090401
+    second: Fipps-Regular Atlas_84
+  - first:
+      213: -8365174804773747628
+    second: Fipps-Regular Atlas_85
+  - first:
+      213: 5388950227488514999
+    second: Fipps-Regular Atlas_86
+  - first:
+      213: 4057238664111101919
+    second: Fipps-Regular Atlas_87
+  - first:
+      213: 5013679784846004332
+    second: Fipps-Regular Atlas_88
+  - first:
+      213: -2490629792642325849
+    second: Fipps-Regular Atlas_89
+  - first:
+      213: 932168284888416848
+    second: Fipps-Regular Atlas_90
+  - first:
+      213: -685092404423482043
+    second: Fipps-Regular Atlas_91
+  - first:
+      213: -4914911793692264862
+    second: Fipps-Regular Atlas_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36aeda6cdeb4b0b0800000000000000
+      internalID: -5713732173331257795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 114
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ce91a39d1d4ee00800000000000000
+      internalID: 1073213342133906440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 92
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380becad2d3bdaf90800000000000000
+      internalID: -6940693732512583549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 114
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0da9e561ac7cfa0800000000000000
+      internalID: -5780429399281446750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 92
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181002b2d19a74cb0800000000000000
+      internalID: -4879745728489979519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 110
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1ffaf5ae6060ce0800000000000000
+      internalID: -1439455427200814623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 110
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba71a695721697f0800000000000000
+      internalID: -606276803587114317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 110
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceabc55c1a0c893f0800000000000000
+      internalID: -893752724999587092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 106
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc0f42d47fc194e0800000000000000
+      internalID: -1976570660787385131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1c1e66365772a20800000000000000
+      internalID: 3037525543472972210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 102
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d01fc7b41110080800000000000000
+      internalID: -9223071545961673365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 102
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4072a28a00194db0800000000000000
+      internalID: -4807293489913892787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 102
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb12eb5f69e9f520800000000000000
+      internalID: 2736474913096473537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 102
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb402f0d549387f30800000000000000
+      internalID: 4573468393615787195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 102
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaa9ae022c49bc80800000000000000
+      internalID: -8306524328549569887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 102
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d61065bf0312e10800000000000000
+      internalID: 2171070351407148415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f22aaa452819c60800000000000000
+      internalID: 7823177327870881544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 108
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842bc2c1089a92c60800000000000000
+      internalID: 7793946997834953288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 108
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba910b5219ff211a0800000000000000
+      internalID: -6840123885154723413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 108
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eba8c9fd3562620800000000000000
+      internalID: 2748976842425417322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a024f841017963c10800000000000000
+      internalID: 2032978377124561418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 88
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9226966430d316860800000000000000
+      internalID: 7521359936960946729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 88
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228e78b5aeeec6a70800000000000000
+      internalID: 8821688460437350434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 88
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ac6e4ec8b544d80800000000000000
+      internalID: -8267382355251508707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 84
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420381279cec83540800000000000000
+      internalID: 4987963951910760484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bffef74c923d040800000000000000
+      internalID: 4671123162450098981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76904fbfdae8be350800000000000000
+      internalID: 6047083802582583655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a1c384d857ef7f0800000000000000
+      internalID: -576894452594107848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 84
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f891ca7e35722f0800000000000000
+      internalID: -997736537949368426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 84
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2131b9b7b8695ec0800000000000000
+      internalID: -3577713290665447122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 84
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bedf2b64b870010800000000000000
+      internalID: 1155044965210778486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 84
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2709fdaa0b9aad3e0800000000000000
+      internalID: -2028122105930870670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 84
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4a5edc8e99e98e0800000000000000
+      internalID: -1684739985424145193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 94
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b06a0aa19d1580f0800000000000000
+      internalID: -1115452821244059465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 98
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589cae4c3c9ebdea0800000000000000
+      internalID: -5846822664178841211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 84
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b989f15a91e38450800000000000000
+      internalID: 6089959174051563953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 68
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dedddd871fccdc0800000000000000
+      internalID: -3617250899264672506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 68
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34b3cfcc6023c850800000000000000
+      internalID: 6395991547510502460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 66
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b15f189146f4c710800000000000000
+      internalID: 1712764519893127604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 66
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89464067d36060b60800000000000000
+      internalID: 7711858272961324184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 66
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234d23ae39c5686d0800000000000000
+      internalID: -2988599512354597838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b033fc9178d6d1f00800000000000000
+      internalID: 1089147111914550027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d22d6a31c16355f0800000000000000
+      internalID: -769163628813409584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afc773cfa425a310800000000000000
+      internalID: 1415577995195174820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4069e42ead4dd5500800000000000000
+      internalID: 386699179588490756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874e6b4ad59d33430800000000000000
+      internalID: 3761589110003131512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 66
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29f4b11f517dc200800000000000000
+      internalID: 201942211434445101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 62
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c913e3f295dee70800000000000000
+      internalID: 9146064477701119072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 84
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f11e2c8ef96910800000000000000
+      internalID: 1831274601524621792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 62
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0c654a59aff98d0800000000000000
+      internalID: -2837273719605903107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 74
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1c8adbc6c281d10800000000000000
+      internalID: 2096474472091009483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d0c7b079d063330800000000000000
+      internalID: 3690151887060602220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 44
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6b7e5a297d0a3c0800000000000000
+      internalID: -4350240215191275824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c522c4f8b300e7e0800000000000000
+      internalID: -1738385363249781303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 44
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b99214eba37be0f0800000000000000
+      internalID: -1086647702976816713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 44
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f6e5916f3b25ee0800000000000000
+      internalID: -1273757875023483042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8355cc2fcd9a220800000000000000
+      internalID: 2497770403721984227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec542f86b6747aa20800000000000000
+      internalID: 3073503797351433678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 44
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f30285d5513e8330800000000000000
+      internalID: 3714960987351286776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 44
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77f27a5dc9a92f40800000000000000
+      internalID: 5704277102492317562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 44
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926872976d854cea0800000000000000
+      internalID: -5853455937495923159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 44
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267a7ae8d3e8fcd90800000000000000
+      internalID: -7075280094538258590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 44
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc19bc2fbd3322c40800000000000000
+      internalID: 5486004315854967245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 44
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44f45cb53b6c8fd0800000000000000
+      internalID: -2338376227975007153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 50
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6625eabfa453815d0800000000000000
+      internalID: -3091662548023487898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 62
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bf1a3a015b98f10800000000000000
+      internalID: 2272546570054531930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30103d6fecbb10bb0800000000000000
+      internalID: -4971486016061636349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2f203da63c292f0800000000000000
+      internalID: -967496106357099784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 22
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee00d683a7ad6df80800000000000000
+      internalID: -8082032262802243346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcca360dc520cab70800000000000000
+      internalID: 8911500360315808973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e38ae5fe0cc586f0800000000000000
+      internalID: -682915403849366558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2307894a191a81990800000000000000
+      internalID: -7414999139561738190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ad1c0e864e1c630800000000000000
+      internalID: 3945685887651797597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f536b0b58c303370800000000000000
+      internalID: 8300200658136872433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abf4c8a6fa205480800000000000000
+      internalID: -8912576423684408410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a27f8a3e42c1f710800000000000000
+      internalID: 1725373773505327776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c4df0e9e1cd5140800000000000000
+      internalID: 4710133995545644050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a2a87c068313470800000000000000
+      internalID: 8372535170574199306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748dfd50b301836d0800000000000000
+      internalID: -3010638505209505721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f44661cf869ae70800000000000000
+      internalID: 9126941551759740693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 22
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215e594620d2a8670800000000000000
+      internalID: 8541689131562296594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24392cd2026d45e0800000000000000
+      internalID: -1923773701394189270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bffc6a997a9fb420800000000000000
+      internalID: 2648004952989695929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71abe5b23d442c260800000000000000
+      internalID: 7116326034955221527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d9d5b367fd3bd20800000000000000
+      internalID: 3293221451433090401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454c96de5dde8eb80800000000000000
+      internalID: -8365174804773747628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3a6b51ea569ca40800000000000000
+      internalID: 5388950227488514999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7925f91153e4830800000000000000
+      internalID: 4057238664111101919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c609d41633b249540800000000000000
+      internalID: 5013679784846004332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2ac8646618f6dd0800000000000000
+      internalID: -2490629792642325849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052c8a3cd1abfec00800000000000000
+      internalID: 932168284888416848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545250486101e76f0800000000000000
+      internalID: -685092404423482043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fipps-Regular Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266389293c9bacbb0800000000000000
+      internalID: -4914911793692264862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fipps-Regular Atlas_0: -5713732173331257795
+      Fipps-Regular Atlas_1: 1073213342133906440
+      Fipps-Regular Atlas_10: -9223071545961673365
+      Fipps-Regular Atlas_11: -4807293489913892787
+      Fipps-Regular Atlas_12: 2736474913096473537
+      Fipps-Regular Atlas_13: 4573468393615787195
+      Fipps-Regular Atlas_14: -8306524328549569887
+      Fipps-Regular Atlas_15: 2171070351407148415
+      Fipps-Regular Atlas_16: 7823177327870881544
+      Fipps-Regular Atlas_17: 7793946997834953288
+      Fipps-Regular Atlas_18: -6840123885154723413
+      Fipps-Regular Atlas_19: 2748976842425417322
+      Fipps-Regular Atlas_2: -6940693732512583549
+      Fipps-Regular Atlas_20: 2032978377124561418
+      Fipps-Regular Atlas_21: 7521359936960946729
+      Fipps-Regular Atlas_22: 8821688460437350434
+      Fipps-Regular Atlas_23: -8267382355251508707
+      Fipps-Regular Atlas_24: 4987963951910760484
+      Fipps-Regular Atlas_25: 4671123162450098981
+      Fipps-Regular Atlas_26: 6047083802582583655
+      Fipps-Regular Atlas_27: -576894452594107848
+      Fipps-Regular Atlas_28: -997736537949368426
+      Fipps-Regular Atlas_29: -3577713290665447122
+      Fipps-Regular Atlas_3: -5780429399281446750
+      Fipps-Regular Atlas_30: 1155044965210778486
+      Fipps-Regular Atlas_31: -2028122105930870670
+      Fipps-Regular Atlas_32: -1684739985424145193
+      Fipps-Regular Atlas_33: -1115452821244059465
+      Fipps-Regular Atlas_34: -5846822664178841211
+      Fipps-Regular Atlas_35: 6089959174051563953
+      Fipps-Regular Atlas_36: -3617250899264672506
+      Fipps-Regular Atlas_37: 6395991547510502460
+      Fipps-Regular Atlas_38: 1712764519893127604
+      Fipps-Regular Atlas_39: 7711858272961324184
+      Fipps-Regular Atlas_4: -4879745728489979519
+      Fipps-Regular Atlas_40: -2988599512354597838
+      Fipps-Regular Atlas_41: 1089147111914550027
+      Fipps-Regular Atlas_42: -769163628813409584
+      Fipps-Regular Atlas_43: 1415577995195174820
+      Fipps-Regular Atlas_44: 386699179588490756
+      Fipps-Regular Atlas_45: 3761589110003131512
+      Fipps-Regular Atlas_46: 201942211434445101
+      Fipps-Regular Atlas_47: 9146064477701119072
+      Fipps-Regular Atlas_48: 1831274601524621792
+      Fipps-Regular Atlas_49: -2837273719605903107
+      Fipps-Regular Atlas_5: -1439455427200814623
+      Fipps-Regular Atlas_50: 2096474472091009483
+      Fipps-Regular Atlas_51: 3690151887060602220
+      Fipps-Regular Atlas_52: -4350240215191275824
+      Fipps-Regular Atlas_53: -1738385363249781303
+      Fipps-Regular Atlas_54: -1086647702976816713
+      Fipps-Regular Atlas_55: -1273757875023483042
+      Fipps-Regular Atlas_56: 2497770403721984227
+      Fipps-Regular Atlas_57: 3073503797351433678
+      Fipps-Regular Atlas_58: 3714960987351286776
+      Fipps-Regular Atlas_59: 5704277102492317562
+      Fipps-Regular Atlas_6: -606276803587114317
+      Fipps-Regular Atlas_60: -5853455937495923159
+      Fipps-Regular Atlas_61: -7075280094538258590
+      Fipps-Regular Atlas_62: 5486004315854967245
+      Fipps-Regular Atlas_63: -2338376227975007153
+      Fipps-Regular Atlas_64: -3091662548023487898
+      Fipps-Regular Atlas_65: 2272546570054531930
+      Fipps-Regular Atlas_66: -4971486016061636349
+      Fipps-Regular Atlas_67: -967496106357099784
+      Fipps-Regular Atlas_68: -8082032262802243346
+      Fipps-Regular Atlas_69: 8911500360315808973
+      Fipps-Regular Atlas_7: -893752724999587092
+      Fipps-Regular Atlas_70: -682915403849366558
+      Fipps-Regular Atlas_71: -7414999139561738190
+      Fipps-Regular Atlas_72: 3945685887651797597
+      Fipps-Regular Atlas_73: 8300200658136872433
+      Fipps-Regular Atlas_74: -8912576423684408410
+      Fipps-Regular Atlas_75: 1725373773505327776
+      Fipps-Regular Atlas_76: 4710133995545644050
+      Fipps-Regular Atlas_77: 8372535170574199306
+      Fipps-Regular Atlas_78: -3010638505209505721
+      Fipps-Regular Atlas_79: 9126941551759740693
+      Fipps-Regular Atlas_8: -1976570660787385131
+      Fipps-Regular Atlas_80: 8541689131562296594
+      Fipps-Regular Atlas_81: -1923773701394189270
+      Fipps-Regular Atlas_82: 2648004952989695929
+      Fipps-Regular Atlas_83: 7116326034955221527
+      Fipps-Regular Atlas_84: 3293221451433090401
+      Fipps-Regular Atlas_85: -8365174804773747628
+      Fipps-Regular Atlas_86: 5388950227488514999
+      Fipps-Regular Atlas_87: 4057238664111101919
+      Fipps-Regular Atlas_88: 5013679784846004332
+      Fipps-Regular Atlas_89: -2490629792642325849
+      Fipps-Regular Atlas_9: 3037525543472972210
+      Fipps-Regular Atlas_90: 932168284888416848
+      Fipps-Regular Atlas_91: -685092404423482043
+      Fipps-Regular Atlas_92: -4914911793692264862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
