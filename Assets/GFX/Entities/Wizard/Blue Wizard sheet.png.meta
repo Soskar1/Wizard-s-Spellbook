@@ -268,7 +268,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -282,7 +282,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -306,7 +306,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -347,10 +347,10 @@ TextureImporter:
       name: Blue Wizard sheet_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 639
-        width: 31
-        height: 44
+        x: 0
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,10 +369,10 @@ TextureImporter:
       name: Blue Wizard sheet_1
       rect:
         serializedVersion: 2
-        x: 81
-        y: 639
-        width: 32
-        height: 43
+        x: 64
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,10 +391,10 @@ TextureImporter:
       name: Blue Wizard sheet_2
       rect:
         serializedVersion: 2
-        x: 145
-        y: 639
-        width: 32
-        height: 42
+        x: 128
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,10 +413,10 @@ TextureImporter:
       name: Blue Wizard sheet_3
       rect:
         serializedVersion: 2
-        x: 209
-        y: 639
-        width: 31
-        height: 42
+        x: 192
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,10 +435,10 @@ TextureImporter:
       name: Blue Wizard sheet_4
       rect:
         serializedVersion: 2
-        x: 273
-        y: 639
-        width: 31
-        height: 43
+        x: 256
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +457,10 @@ TextureImporter:
       name: Blue Wizard sheet_5
       rect:
         serializedVersion: 2
-        x: 337
-        y: 639
-        width: 31
-        height: 44
+        x: 320
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,10 +479,10 @@ TextureImporter:
       name: Blue Wizard sheet_6
       rect:
         serializedVersion: 2
-        x: 17
-        y: 575
-        width: 30
-        height: 45
+        x: 0
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -501,10 +501,10 @@ TextureImporter:
       name: Blue Wizard sheet_7
       rect:
         serializedVersion: 2
-        x: 81
-        y: 575
-        width: 30
-        height: 46
+        x: 64
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,10 +523,10 @@ TextureImporter:
       name: Blue Wizard sheet_8
       rect:
         serializedVersion: 2
-        x: 145
-        y: 575
-        width: 29
-        height: 44
+        x: 128
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,10 +545,10 @@ TextureImporter:
       name: Blue Wizard sheet_9
       rect:
         serializedVersion: 2
-        x: 209
-        y: 575
-        width: 30
-        height: 45
+        x: 192
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,10 +567,10 @@ TextureImporter:
       name: Blue Wizard sheet_10
       rect:
         serializedVersion: 2
-        x: 273
-        y: 575
-        width: 31
-        height: 46
+        x: 256
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -589,10 +589,10 @@ TextureImporter:
       name: Blue Wizard sheet_11
       rect:
         serializedVersion: 2
-        x: 337
-        y: 575
-        width: 32
-        height: 44
+        x: 320
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,10 +611,10 @@ TextureImporter:
       name: Blue Wizard sheet_12
       rect:
         serializedVersion: 2
-        x: 17
-        y: 511
-        width: 32
-        height: 49
+        x: 0
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -633,10 +633,10 @@ TextureImporter:
       name: Blue Wizard sheet_13
       rect:
         serializedVersion: 2
-        x: 80
-        y: 511
-        width: 25
-        height: 56
+        x: 64
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -655,10 +655,10 @@ TextureImporter:
       name: Blue Wizard sheet_14
       rect:
         serializedVersion: 2
-        x: 145
-        y: 511
-        width: 45
-        height: 44
+        x: 128
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -677,10 +677,10 @@ TextureImporter:
       name: Blue Wizard sheet_15
       rect:
         serializedVersion: 2
-        x: 209
-        y: 511
-        width: 45
-        height: 45
+        x: 192
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,10 +699,10 @@ TextureImporter:
       name: Blue Wizard sheet_16
       rect:
         serializedVersion: 2
-        x: 273
-        y: 511
-        width: 44
-        height: 46
+        x: 256
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -721,10 +721,10 @@ TextureImporter:
       name: Blue Wizard sheet_17
       rect:
         serializedVersion: 2
-        x: 337
-        y: 511
-        width: 31
-        height: 44
+        x: 320
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: Blue Wizard sheet_18
       rect:
         serializedVersion: 2
-        x: 17
-        y: 447
-        width: 32
-        height: 42
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -765,10 +765,10 @@ TextureImporter:
       name: Blue Wizard sheet_19
       rect:
         serializedVersion: 2
-        x: 81
-        y: 447
-        width: 31
-        height: 41
+        x: 64
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -787,10 +787,10 @@ TextureImporter:
       name: Blue Wizard sheet_20
       rect:
         serializedVersion: 2
-        x: 145
-        y: 447
-        width: 30
-        height: 46
+        x: 128
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -809,10 +809,10 @@ TextureImporter:
       name: Blue Wizard sheet_21
       rect:
         serializedVersion: 2
-        x: 209
-        y: 449
-        width: 32
-        height: 44
+        x: 192
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -831,10 +831,10 @@ TextureImporter:
       name: Blue Wizard sheet_22
       rect:
         serializedVersion: 2
-        x: 273
-        y: 447
-        width: 32
-        height: 44
+        x: 256
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -853,10 +853,10 @@ TextureImporter:
       name: Blue Wizard sheet_23
       rect:
         serializedVersion: 2
-        x: 337
-        y: 447
-        width: 31
-        height: 41
+        x: 320
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -875,10 +875,10 @@ TextureImporter:
       name: Blue Wizard sheet_24
       rect:
         serializedVersion: 2
-        x: 17
-        y: 383
-        width: 32
-        height: 42
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -897,10 +897,10 @@ TextureImporter:
       name: Blue Wizard sheet_25
       rect:
         serializedVersion: 2
-        x: 81
-        y: 383
-        width: 31
-        height: 44
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -919,10 +919,10 @@ TextureImporter:
       name: Blue Wizard sheet_26
       rect:
         serializedVersion: 2
-        x: 144
-        y: 383
-        width: 32
-        height: 44
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -941,10 +941,10 @@ TextureImporter:
       name: Blue Wizard sheet_27
       rect:
         serializedVersion: 2
-        x: 207
-        y: 383
-        width: 32
-        height: 48
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -963,10 +963,10 @@ TextureImporter:
       name: Blue Wizard sheet_28
       rect:
         serializedVersion: 2
-        x: 272
-        y: 383
-        width: 24
-        height: 54
+        x: 256
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -985,10 +985,10 @@ TextureImporter:
       name: Blue Wizard sheet_29
       rect:
         serializedVersion: 2
-        x: 339
-        y: 383
-        width: 45
-        height: 44
+        x: 320
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1007,10 +1007,10 @@ TextureImporter:
       name: Blue Wizard sheet_30
       rect:
         serializedVersion: 2
-        x: 19
-        y: 319
-        width: 45
-        height: 44
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1029,10 +1029,10 @@ TextureImporter:
       name: Blue Wizard sheet_31
       rect:
         serializedVersion: 2
-        x: 82
-        y: 319
-        width: 45
-        height: 44
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1051,10 +1051,10 @@ TextureImporter:
       name: Blue Wizard sheet_32
       rect:
         serializedVersion: 2
-        x: 146
-        y: 319
-        width: 31
-        height: 44
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1073,10 +1073,10 @@ TextureImporter:
       name: Blue Wizard sheet_33
       rect:
         serializedVersion: 2
-        x: 176
-        y: 319
-        width: 56
-        height: 44
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1095,10 +1095,10 @@ TextureImporter:
       name: Blue Wizard sheet_34
       rect:
         serializedVersion: 2
-        x: 271
-        y: 319
-        width: 25
-        height: 44
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1117,10 +1117,10 @@ TextureImporter:
       name: Blue Wizard sheet_35
       rect:
         serializedVersion: 2
-        x: 338
-        y: 319
-        width: 45
-        height: 44
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1139,10 +1139,10 @@ TextureImporter:
       name: Blue Wizard sheet_36
       rect:
         serializedVersion: 2
-        x: 18
-        y: 255
-        width: 45
-        height: 44
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1161,10 +1161,10 @@ TextureImporter:
       name: Blue Wizard sheet_37
       rect:
         serializedVersion: 2
-        x: 79
-        y: 255
-        width: 25
-        height: 48
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1183,10 +1183,10 @@ TextureImporter:
       name: Blue Wizard sheet_38
       rect:
         serializedVersion: 2
-        x: 144
-        y: 255
-        width: 24
-        height: 44
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,10 +1205,10 @@ TextureImporter:
       name: Blue Wizard sheet_39
       rect:
         serializedVersion: 2
-        x: 210
-        y: 255
-        width: 24
-        height: 44
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1227,10 +1227,10 @@ TextureImporter:
       name: Blue Wizard sheet_40
       rect:
         serializedVersion: 2
-        x: 272
-        y: 255
-        width: 34
-        height: 50
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1249,10 +1249,10 @@ TextureImporter:
       name: Blue Wizard sheet_41
       rect:
         serializedVersion: 2
-        x: 335
-        y: 255
-        width: 24
-        height: 51
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1271,10 +1271,10 @@ TextureImporter:
       name: Blue Wizard sheet_42
       rect:
         serializedVersion: 2
-        x: 349
-        y: 283
-        width: 21
-        height: 21
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1293,10 +1293,10 @@ TextureImporter:
       name: Blue Wizard sheet_43
       rect:
         serializedVersion: 2
-        x: 15
-        y: 191
-        width: 25
-        height: 48
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1315,10 +1315,10 @@ TextureImporter:
       name: Blue Wizard sheet_44
       rect:
         serializedVersion: 2
-        x: 80
-        y: 191
-        width: 24
-        height: 44
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1337,10 +1337,10 @@ TextureImporter:
       name: Blue Wizard sheet_45
       rect:
         serializedVersion: 2
-        x: 146
-        y: 191
-        width: 24
-        height: 44
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1359,10 +1359,10 @@ TextureImporter:
       name: Blue Wizard sheet_46
       rect:
         serializedVersion: 2
-        x: 207
-        y: 191
-        width: 47
-        height: 59
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1381,10 +1381,10 @@ TextureImporter:
       name: Blue Wizard sheet_47
       rect:
         serializedVersion: 2
-        x: 271
-        y: 191
-        width: 30
-        height: 51
+        x: 320
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1403,10 +1403,10 @@ TextureImporter:
       name: Blue Wizard sheet_48
       rect:
         serializedVersion: 2
-        x: 285
-        y: 211
-        width: 24
-        height: 33
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1425,10 +1425,10 @@ TextureImporter:
       name: Blue Wizard sheet_49
       rect:
         serializedVersion: 2
-        x: 307
-        y: 224
-        width: 8
-        height: 6
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1447,10 +1447,10 @@ TextureImporter:
       name: Blue Wizard sheet_50
       rect:
         serializedVersion: 2
-        x: 338
-        y: 191
-        width: 32
-        height: 49
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1469,10 +1469,10 @@ TextureImporter:
       name: Blue Wizard sheet_51
       rect:
         serializedVersion: 2
-        x: 17
-        y: 127
-        width: 33
-        height: 50
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1491,10 +1491,10 @@ TextureImporter:
       name: Blue Wizard sheet_52
       rect:
         serializedVersion: 2
-        x: 81
-        y: 127
-        width: 32
-        height: 51
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1513,10 +1513,10 @@ TextureImporter:
       name: Blue Wizard sheet_53
       rect:
         serializedVersion: 2
-        x: 146
-        y: 127
-        width: 31
-        height: 51
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1535,10 +1535,10 @@ TextureImporter:
       name: Blue Wizard sheet_54
       rect:
         serializedVersion: 2
-        x: 210
-        y: 113
-        width: 32
-        height: 62
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1557,10 +1557,10 @@ TextureImporter:
       name: Blue Wizard sheet_55
       rect:
         serializedVersion: 2
-        x: 234
-        y: 162
-        width: 7
-        height: 6
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1579,10 +1579,10 @@ TextureImporter:
       name: Blue Wizard sheet_56
       rect:
         serializedVersion: 2
-        x: 273
-        y: 122
-        width: 31
-        height: 49
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1601,10 +1601,10 @@ TextureImporter:
       name: Blue Wizard sheet_57
       rect:
         serializedVersion: 2
-        x: 337
-        y: 127
-        width: 31
-        height: 44
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1623,10 +1623,10 @@ TextureImporter:
       name: Blue Wizard sheet_58
       rect:
         serializedVersion: 2
-        x: 16
-        y: 63
-        width: 40
-        height: 43
+        x: 256
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1645,10 +1645,10 @@ TextureImporter:
       name: Blue Wizard sheet_59
       rect:
         serializedVersion: 2
-        x: 81
-        y: 63
-        width: 28
-        height: 65
+        x: 320
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1667,10 +1667,10 @@ TextureImporter:
       name: Blue Wizard sheet_60
       rect:
         serializedVersion: 2
-        x: 155
-        y: 101
-        width: 6
-        height: 25
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1689,10 +1689,10 @@ TextureImporter:
       name: Blue Wizard sheet_61
       rect:
         serializedVersion: 2
-        x: 106
-        y: 83
-        width: 6
-        height: 13
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1711,10 +1711,10 @@ TextureImporter:
       name: Blue Wizard sheet_62
       rect:
         serializedVersion: 2
-        x: 145
-        y: 63
-        width: 28
-        height: 36
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1733,10 +1733,10 @@ TextureImporter:
       name: Blue Wizard sheet_63
       rect:
         serializedVersion: 2
-        x: 170
-        y: 78
-        width: 6
-        height: 13
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1755,10 +1755,10 @@ TextureImporter:
       name: Blue Wizard sheet_64
       rect:
         serializedVersion: 2
-        x: 209
-        y: 84
-        width: 22
-        height: 14
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1773,297 +1773,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_65
-      rect:
-        serializedVersion: 2
-        x: 268
-        y: 82
-        width: 23
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e1e58b3af976fde0800000000000000
-      internalID: -1299717326802394656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_66
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 78
-        width: 21
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db60952d2124c9360800000000000000
-      internalID: 7177684554727622333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_67
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 63
-        width: 31
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82d064a5793b602b0800000000000000
-      internalID: -5618606022462141144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_68
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 63
-        width: 32
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 70629d6d6cf3dd4a0800000000000000
-      internalID: -6567022558395685369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_69
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 63
-        width: 31
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fac4c0caf74d40c00800000000000000
-      internalID: 866050673174400175
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_70
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 10
-        width: 22
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9cb13de02afd67e00800000000000000
-      internalID: 1042266250909260745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_71
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 2
-        width: 8
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f433429e9df3e16a0800000000000000
-      internalID: -6476669008960277681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_72
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 5
-        width: 29
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40331a263bdf9e190800000000000000
-      internalID: -7932530321740713212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_73
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 0
-        width: 37
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7790f9237e9b3d370800000000000000
-      internalID: 8346218937085528439
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_74
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 0
-        width: 36
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2aafb3f03b3fbdc40800000000000000
-      internalID: 5538288117162441378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_75
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 0
-        width: 37
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd30b17d9c391a000800000000000000
-      internalID: 45479966356997083
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_76
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 0
-        width: 32
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb9c6e1ba95356a80800000000000000
-      internalID: -8474308185301792321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Blue Wizard sheet_77
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 0
-        width: 32
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94c8789eceb31f4b0800000000000000
-      internalID: -5408475788778959799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 287dcfa2d788d8e43ac04a872b9c366c
     internalID: 0
     vertices: []
     indices: 
@@ -2135,20 +1849,7 @@ TextureImporter:
       Blue Wizard sheet_62: -6126958150688645211
       Blue Wizard sheet_63: 2413861620920061237
       Blue Wizard sheet_64: 793172211727850448
-      Blue Wizard sheet_65: -1299717326802394656
-      Blue Wizard sheet_66: 7177684554727622333
-      Blue Wizard sheet_67: -5618606022462141144
-      Blue Wizard sheet_68: -6567022558395685369
-      Blue Wizard sheet_69: 866050673174400175
       Blue Wizard sheet_7: -7430854527237633554
-      Blue Wizard sheet_70: 1042266250909260745
-      Blue Wizard sheet_71: -6476669008960277681
-      Blue Wizard sheet_72: -7932530321740713212
-      Blue Wizard sheet_73: 8346218937085528439
-      Blue Wizard sheet_74: 5538288117162441378
-      Blue Wizard sheet_75: 45479966356997083
-      Blue Wizard sheet_76: -8474308185301792321
-      Blue Wizard sheet_77: -5408475788778959799
       Blue Wizard sheet_8: 876084601208646565
       Blue Wizard sheet_9: 3657980458204115023
   mipmapLimitGroupName: 
