@@ -5030,7 +5030,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 955d44466fed82e49b0769bc906b6d65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _configuration: {fileID: 11400000, guid: 05857e66a59440f489a8835110fdc38e, type: 2}
   _letterPresenterPrefab: {fileID: 6220436522929201244, guid: 18570c7a395b5b34ba940192a4bd96e2, type: 3}
   _validWords:
   - Dad
