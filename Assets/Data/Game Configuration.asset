@@ -13,3 +13,56 @@ MonoBehaviour:
   m_Name: Game Configuration
   m_EditorClassIdentifier: 
   _lettersInBook: 24
+  _letters:
+  - _letter: 65
+    _weight: 8
+  - _letter: 66
+    _weight: 5
+  - _letter: 67
+    _weight: 6
+  - _letter: 68
+    _weight: 6
+  - _letter: 69
+    _weight: 7
+  - _letter: 70
+    _weight: 5
+  - _letter: 71
+    _weight: 4
+  - _letter: 72
+    _weight: 5
+  - _letter: 73
+    _weight: 6
+  - _letter: 74
+    _weight: 2
+  - _letter: 75
+    _weight: 6
+  - _letter: 76
+    _weight: 4
+  - _letter: 77
+    _weight: 3
+  - _letter: 78
+    _weight: 5
+  - _letter: 79
+    _weight: 5
+  - _letter: 80
+    _weight: 2
+  - _letter: 81
+    _weight: 1
+  - _letter: 82
+    _weight: 3
+  - _letter: 83
+    _weight: 3
+  - _letter: 84
+    _weight: 6
+  - _letter: 85
+    _weight: 3
+  - _letter: 86
+    _weight: 1
+  - _letter: 87
+    _weight: 2
+  - _letter: 88
+    _weight: 1
+  - _letter: 89
+    _weight: 2
+  - _letter: 90
+    _weight: 1

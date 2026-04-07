@@ -22,9 +22,8 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
             
             containerBuilder.RegisterFactory(container => new LetterPresenterFactory(container, _letterPresenterPrefab), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(LetterPool), Lifetime.Singleton, Resolution.Lazy);
-            containerBuilder.RegisterType(typeof(AlphabetInventory), Lifetime.Singleton, Resolution.Lazy);
+            containerBuilder.RegisterType(typeof(LetterInventory), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(Book), Lifetime.Singleton, Resolution.Lazy);
-            containerBuilder.RegisterType(typeof(LetterGenerator), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(BookFill), Lifetime.Singleton, Resolution.Lazy);
             
             containerBuilder.RegisterType(typeof(Word), Lifetime.Singleton, Resolution.Lazy);

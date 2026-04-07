@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using WizardsSpellbook.Core.Domain.GameConfig;
 
 namespace WizardsSpellbook.Core.Domain.Letters
 {
@@ -11,7 +10,7 @@ namespace WizardsSpellbook.Core.Domain.Letters
 
         public event EventHandler<BookChangedEventArgs> BookChanged;
 
-        public Book(GameConfiguration configuration)
+        public Book(LetterConfiguration configuration)
         {
             _letters = new Letter[configuration.LettersInBook];
         }

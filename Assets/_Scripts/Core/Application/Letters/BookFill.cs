@@ -5,13 +5,13 @@ namespace WizardsSpellbook.Core.Application.Letters
 {
     public class BookFill
     {
-        private readonly LetterGenerator _letterGenerator;
+        private readonly LetterInventory _letterInventory;
         private readonly Book _book;
         private readonly WordBuilder _wordBuilder;
 
-        public BookFill(LetterGenerator letterGenerator, Book book, WordBuilder wordBuilder)
+        public BookFill(LetterInventory inventory, Book book, WordBuilder wordBuilder)
         {
-            _letterGenerator = letterGenerator;
+            _letterInventory = inventory;
             _book = book;
             _wordBuilder = wordBuilder;
         }
@@ -24,7 +24,7 @@ namespace WizardsSpellbook.Core.Application.Letters
 
                 if (letter == null)
                 {
-                    letter = _letterGenerator.GenerateLetter();
+                    letter = _letterInventory.GetLetter();
                     _book.SetLetter(i, letter);
                 }
             }

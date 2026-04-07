@@ -17,16 +17,14 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
         [SerializeField] private EntityPresenter _playerPresenter;
         [SerializeField] private EntityPresenter _enemyPresenter;
 
-        private AlphabetInventory _alphabetInventory;
         private EntityFactory _entityFactory;
         private BattleProcessor _battleProcessor;
         private BookFill _bookFill;
 
         [Inject]
-        public void Inject(BookFill bookFill, AlphabetInventory inventory, EntityFactory entityFactory, BattleProcessor battleProcessor)
+        public void Inject(BookFill bookFill, EntityFactory entityFactory, BattleProcessor battleProcessor)
         {
             _bookFill = bookFill;
-            _alphabetInventory = inventory;
             _entityFactory = entityFactory;
             _battleProcessor = battleProcessor;
         }
@@ -38,11 +36,6 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
 
             var enemyEntity = _entityFactory.Create(_enemy);
             _enemyPresenter.Initialize(enemyEntity);
-
-            foreach (var letter in "ABCDEFGIJKLMNOPQRSTUVWXYZ")
-            {
-                _alphabetInventory.AddLetter(letter);
-            }
 
             _bookFill.Fill();
 
