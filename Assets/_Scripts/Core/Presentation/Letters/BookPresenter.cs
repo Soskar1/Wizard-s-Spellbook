@@ -22,7 +22,7 @@ namespace WizardsSpellbook.Core.Presentation.Letters
             _letterPlaceholders = new Transform[_book.MaxSize];
         }
 
-        private void OnEnable() => _book.OnLetterSetEventArgs += HandleOnLetterSetEventArgs;
+        private void OnEnable() => _book.BookChanged += HandleOnLetterSetEventArgs;
 
         private void Awake()
         {
@@ -42,14 +42,27 @@ namespace WizardsSpellbook.Core.Presentation.Letters
 
         private void OnDisable() => Dispose();
 
-        private void HandleOnLetterSetEventArgs(object _, LetterSetEventArgs args)
+        private void HandleOnLetterSetEventArgs(object _, BookChangedEventArgs args)
         {
-            var placeholder = _letterPlaceholders[args.Index];
-            var presenter = _letterPool.GetPresenter(args.Letter);
-            presenter.transform.SetParent(placeholder, false);
-            presenter.transform.position = placeholder.position;
+            if (args.BookOperationType == BookOperationType.Clear)
+            {
+                foreach (var letter in args.Letters)
+                {
+                    _letterPool.Remove(letter);
+                }
+
+                return;
+            }
+
+            for (var index = 0; index < args.Letters.Length; ++index)
+            {
+                var placeholder = _letterPlaceholders[args.PositionsInBook[index]];
+                var presenter = _letterPool.GetPresenter(args.Letters[index]);
+                presenter.transform.SetParent(placeholder, false);
+                presenter.transform.position = placeholder.position;
+            }
         }
 
-        public void Dispose() => _book.OnLetterSetEventArgs -= HandleOnLetterSetEventArgs;
+        public void Dispose() => _book.BookChanged -= HandleOnLetterSetEventArgs;
     }
 }

@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using Reflex.Core;
+﻿using Reflex.Core;
 using Reflex.Enums;
 using UnityEngine;
 using WizardsSpellbook.Core.Application.Battles;

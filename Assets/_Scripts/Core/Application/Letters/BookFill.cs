@@ -1,3 +1,4 @@
+using WizardsSpellbook.Core.Application.Words;
 using WizardsSpellbook.Core.Domain.Letters;
 
 namespace WizardsSpellbook.Core.Application.Letters
@@ -6,11 +7,13 @@ namespace WizardsSpellbook.Core.Application.Letters
     {
         private readonly LetterGenerator _letterGenerator;
         private readonly Book _book;
+        private readonly WordBuilder _wordBuilder;
 
-        public BookFill(LetterGenerator letterGenerator, Book book)
+        public BookFill(LetterGenerator letterGenerator, Book book, WordBuilder wordBuilder)
         {
             _letterGenerator = letterGenerator;
             _book = book;
+            _wordBuilder = wordBuilder;
         }
 
         public void Fill()
@@ -25,6 +28,14 @@ namespace WizardsSpellbook.Core.Application.Letters
                     _book.SetLetter(i, letter);
                 }
             }
+        }
+
+        public void Refill()
+        {
+            _wordBuilder.Clear();
+            _book.Clear();
+
+            Fill();
         }
     }
 }
