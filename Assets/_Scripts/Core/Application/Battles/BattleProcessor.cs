@@ -1,5 +1,4 @@
 using System.Threading.Tasks;
-using UnityEngine;
 using WizardsSpellbook.Core.Domain.Battles;
 
 namespace WizardsSpellbook.Core.Application.Battles
@@ -9,6 +8,7 @@ namespace WizardsSpellbook.Core.Application.Battles
         private readonly PlayerTurnProcessor _playerTurnProcessor;
         private readonly AiTurnProcessor _aiTurnProcessor;
         private ITurnProcessor _currentTurnProcessor;
+        private BattleSide _currentBattleSide;
 
         public BattleProcessor(PlayerTurnProcessor playerTurnProcessor, AiTurnProcessor aiTurnProcessor)
         {
@@ -16,18 +16,19 @@ namespace WizardsSpellbook.Core.Application.Battles
             _aiTurnProcessor = aiTurnProcessor;
         }
 
-        public async Task StartBattle(Battle battle)
+        public async Task<BattleResult> StartBattle(Battle battle)
         {
-            var battleSide = battle.Start();
-            _currentTurnProcessor = GetTurnProcessor(battleSide);
+            _currentBattleSide = battle.Start();
+            _currentTurnProcessor = GetTurnProcessor(_currentBattleSide);
 
-            await ProcessBattle(battle);
+            var battleResult = await ProcessBattle(battle);
+            return battleResult;
         }
 
-        private async Task ProcessBattle(Battle battle)
+        private async Task<BattleResult> ProcessBattle(Battle battle)
         {
             var battleIsEnded = false;
-
+            
             while (!battleIsEnded)
             {
                 var turnResult = await _currentTurnProcessor.StartTurn();
@@ -38,9 +39,11 @@ namespace WizardsSpellbook.Core.Application.Battles
                     break;
                 }
 
-                var battleSide = battle.NextTurn();
-                _currentTurnProcessor = GetTurnProcessor(battleSide);
+                _currentBattleSide = battle.NextTurn();
+                _currentTurnProcessor = GetTurnProcessor(_currentBattleSide);
             }
+
+            return new BattleResult(_currentBattleSide);
         }
 
         private ITurnProcessor GetTurnProcessor(BattleSide battleSide)

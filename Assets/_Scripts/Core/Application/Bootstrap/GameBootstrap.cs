@@ -1,4 +1,5 @@
-﻿using Reflex.Attributes;
+﻿using System.Threading.Tasks;
+using Reflex.Attributes;
 using UnityEngine;
 using WizardsSpellbook.Core.Application.Battles;
 using WizardsSpellbook.Core.Application.Letters;
@@ -30,20 +31,37 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
             _battleProcessor = battleProcessor;
         }
 
-        public async void Start()
+        public async Task Start()
         {
             var playerEntity = _entityFactory.Create(_player);
             playerEntity.transform.position = _playerSpawnpoint.position;
             _playerPresenter.Initialize(playerEntity.Model);
 
-            var enemyEntity = _entityFactory.Create(_enemy);
-            enemyEntity.transform.position = _enemySpawnpoint.position;
-            _enemyPresenter.Initialize(enemyEntity.Model);
-
             _bookFill.Fill();
 
-            var battle = new Battle(playerEntity.Model, enemyEntity.Model);
-            await _battleProcessor.StartBattle(battle);
+            await GameLoop(playerEntity.Model);
+        }
+
+        private async Task GameLoop(EntityModel player)
+        {
+            var battleResult = new BattleResult(BattleSide.Player);
+
+            while (battleResult.Winner == BattleSide.Player)
+            {
+                var enemyEntity = _entityFactory.Create(_enemy);
+                enemyEntity.transform.position = _enemySpawnpoint.position;
+                _enemyPresenter.Initialize(enemyEntity.Model);
+
+                var battle = new Battle(player, enemyEntity.Model);
+                battleResult = await _battleProcessor.StartBattle(battle);
+
+                if (battleResult.Winner == BattleSide.Ai)
+                {
+                    Destroy(enemyEntity.gameObject);
+                }
+            }
+
+            Debug.Log("Game Over!");
         }
     }
 }
