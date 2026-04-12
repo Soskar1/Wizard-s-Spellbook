@@ -2,11 +2,11 @@
 using Reflex.Enums;
 using UnityEngine;
 using WizardsSpellbook.Core.Application.Battles;
-using WizardsSpellbook.Core.Application.Entities;
 using WizardsSpellbook.Core.Application.Letters;
 using WizardsSpellbook.Core.Application.Words;
 using WizardsSpellbook.Core.Domain.Letters;
 using WizardsSpellbook.Core.Domain.Words;
+using WizardsSpellbook.Core.Presentation.Entities;
 using WizardsSpellbook.Core.Presentation.Letters;
 using Resolution = Reflex.Enums.Resolution;
 
@@ -14,6 +14,7 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
 {
     public class GameInstaller : MonoBehaviour, IInstaller
     {
+        [SerializeField] private Entity _entityPrefab;
         [SerializeField] private LetterPresenter _letterPresenterPrefab;
 
         public void InstallBindings(ContainerBuilder containerBuilder)
@@ -29,7 +30,7 @@ namespace WizardsSpellbook.Core.Application.Bootstrap
             containerBuilder.RegisterType(typeof(Word), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(WordBuilder), Lifetime.Singleton, Resolution.Lazy);
 
-            containerBuilder.RegisterType(typeof(EntityFactory), Lifetime.Singleton, Resolution.Lazy);
+            containerBuilder.RegisterFactory(container => new EntityFactory(_entityPrefab), Lifetime.Singleton, Resolution.Lazy);
 
             containerBuilder.RegisterType(typeof(AiTurnProcessor), Lifetime.Singleton, Resolution.Lazy);
             containerBuilder.RegisterType(typeof(PlayerTurnProcessor), Lifetime.Singleton, Resolution.Lazy);

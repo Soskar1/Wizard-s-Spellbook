@@ -4,11 +4,11 @@ namespace WizardsSpellbook.Core.Domain.Battles
 {
     public class Battle
     {
-        private Entity _player;
-        private Entity _enemy;
+        private EntityModel _player;
+        private EntityModel _enemy;
         private BattleSide _currentTurn;
 
-        public Battle(Entity player, Entity enemy)
+        public Battle(EntityModel player, EntityModel enemy)
         {
             _player = player;
             _enemy = enemy;

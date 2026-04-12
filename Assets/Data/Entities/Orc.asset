@@ -9,7 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc1d669471539644d918226d3ee44572, type: 3}
-  m_Name: Player
+  m_Script: {fileID: 11500000, guid: 07ba0ca9588ce241fbe59ae5b4452b4b, type: 3}
+  m_Name: Orc
   m_EditorClassIdentifier: 
-  _startHealth: 6
+  _startHealth: 4
+  _animatorController: {fileID: 22100000, guid: 8d5ee1526820d3882841f4181eb8b077, type: 2}

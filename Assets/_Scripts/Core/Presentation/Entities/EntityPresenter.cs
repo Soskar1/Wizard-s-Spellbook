@@ -7,7 +7,7 @@ namespace WizardsSpellbook.Core.Presentation.Entities
     {
         [SerializeField] private HealthPresenter _healthPresenter;
 
-        public void Initialize(Entity entity)
+        public void Initialize(EntityModel entity)
         {
             _healthPresenter.Initialize(entity.Health);
         }

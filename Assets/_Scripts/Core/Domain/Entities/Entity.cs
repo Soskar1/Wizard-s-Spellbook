@@ -1,12 +1,12 @@
 ﻿namespace WizardsSpellbook.Core.Domain.Entities
 {
-    public class Entity
+    public class EntityModel
     {
         public Health Health { get; }
 
-        public Entity(EntityData entityData)
+        public EntityModel(EntityConfiguration entityConfiguration)
         {
-            Health = new Health(entityData.StartHealth);
+            Health = new Health(entityConfiguration.StartHealth);
         }
 
         public int TakeDamage(int damage)
