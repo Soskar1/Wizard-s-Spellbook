@@ -36,6 +36,8 @@ namespace WizardsSpellbook.Core.Application.Words
             }
         }
 
+        public int GetWordLength() => _word.Length;
+
         private void MoveToWord(Letter letter)
         {
             var index = _book.RemoveLetter(letter);

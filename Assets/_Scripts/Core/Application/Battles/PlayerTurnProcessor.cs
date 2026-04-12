@@ -25,7 +25,9 @@ namespace WizardsSpellbook.Core.Application.Battles
 
         public void Attack()
         {
-            var turnResult = new TurnResult(1, BattleSide.Player);
+            var wordLength = _wordBuilder.GetWordLength();
+
+            var turnResult = new TurnResult(wordLength >> 1, BattleSide.Player);
             _turnFinished.SetResult(turnResult);
 
             _wordBuilder.Clear();

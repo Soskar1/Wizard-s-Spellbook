@@ -11,6 +11,8 @@ namespace WizardsSpellbook.Core.Domain.Words
         private readonly StringBuilder _currentWordRepresentation;
         private readonly WordDictionary _wordDictionary;
 
+        public int Length => _letters.Count;
+
         public event EventHandler<WordChangedEventArgs> WordChanged;
 
         public Word(WordDictionary wordDictionary)
