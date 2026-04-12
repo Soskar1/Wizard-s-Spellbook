@@ -5,7 +5,6 @@ using WizardsSpellbook.Core.Application.Entities;
 using WizardsSpellbook.Core.Application.Letters;
 using WizardsSpellbook.Core.Domain.Battles;
 using WizardsSpellbook.Core.Domain.Entities;
-using WizardsSpellbook.Core.Domain.Letters;
 using WizardsSpellbook.Core.Presentation.Entities;
 
 namespace WizardsSpellbook.Core.Application.Bootstrap
